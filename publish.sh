@@ -1,11 +1,33 @@
 #!/bin/bash
 
-# Replace "sculpin generate" with "php sculpin.phar generate" if sculpin.phar
-# was downloaded and placed in this directory instead of sculpin having been
-# installed globally.
+#
+# Basic script to publish sculpin content to github pages
+# I know that git push --force is not the best trick
+# But hey, for this use case and the result of static html it works fine
+# We still keep the history of development in the master branch
+#
 
-sculpin generate --env=prod
+# Cleanup
+rm -rf output_prod || exit 0;
+
+# Prepare output
+./sculpin.phar install
+./sculpin.phar generate --env=prod
 if [ $? -ne 0 ]; then echo "Could not generate the site"; exit 1; fi
 
-rsync -avze 'ssh -p 4668' output_prod/ username@yoursculpinsite:public_html
+# Generate the domain file for github
+# TODO
+
+cd ./output_prod
+
+# Create a fresh git repo
+git init
+
+git config user.email "andygrunwald@gmail.com"
+git config user.name "Andy Grunwald"
+
+git remote add origin git@github.com:andygrunwald/andygrunwald.github.io.git
+git add -A
+git commit -m "New version of tech blog"
+git push --force origin master
 if [ $? -ne 0 ]; then echo "Could not publish the site"; exit 1; fi
