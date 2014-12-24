@@ -26,3 +26,11 @@ footer.container {
         padding-bottom: 40px;
     }
 }
+
+/**
+ * New added styled
+ *
+ */
+.brand {
+    text-transform: uppercase;
+}
