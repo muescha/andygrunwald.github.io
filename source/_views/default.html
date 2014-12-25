@@ -56,28 +56,7 @@
                 </div>
             </div>
         </div>
-        <footer class="container-fluid">
-            <div class="row">
-                <div class="col-md-6">
-                    {{ site.title }} &mdash; {% if site.subtitle %}{{ site.subtitle }}{% endif %}
-                </div>
-                <div class="col-md-6 text-right social">
-                    <i class="fa fa-2x fa-envelope-square"></i>
-                    <a href="https://twitter.com/andygrunwald">
-                        <i class="fa fa-2x fa-twitter-square"></i>
-                    </a>
-                    <a href="https://github.com/andygrunwald">
-                        <i class="fa fa-2x fa-github-square"></i>
-                    </a>
-                    <a href="https://www.linkedin.com/pub/andy-grunwald/5a/a26/9a">
-                        <i class="fa fa-2x fa-linkedin-square"></i>
-                    </a>
-                    <a href="https://www.xing.com/profile/Andy_Grunwald">
-                        <i class="fa fa-2x fa-xing-square"></i>
-                    </a>
-                </div>
-            </div>
-        </footer>
+        {% include 'footer.html' %}
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <!--
