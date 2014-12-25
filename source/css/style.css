@@ -7,11 +7,11 @@ h4 small
 
 header nav,
 .mainContent,
-footer.container {
+footer.container-fluid {
     max-width: 900px;
 }
 
-footer.container {
+footer.container-fluid {
     margin-top: 30px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -21,6 +21,10 @@ footer.container {
 @media (max-width: 767px) {
     .sidebar {
         padding-top: 30px;
+    }
+    footer .social {
+        text-align: left;
+        padding-top: 15px;
     }
 }
 @media (min-width: 980px) {
@@ -34,10 +38,6 @@ footer.container {
  * New added styled
  *
  */
-.navbar-brand {
-    text-transform: uppercase;
-}
-
 .navbar {
     background-color: #fff;
     border-top: 0;
