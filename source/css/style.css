@@ -5,7 +5,9 @@ h4 small
     color: #888;
 }
 
-.mainContent, footer.container {
+header nav,
+.mainContent,
+footer.container {
     max-width: 900px;
 }
 
@@ -33,4 +35,17 @@ footer.container {
  */
 .navbar-brand {
     text-transform: uppercase;
+}
+
+.navbar {
+    background-color: #fff;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+}
+
+header nav .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
 }
