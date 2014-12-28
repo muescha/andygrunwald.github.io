@@ -5,9 +5,16 @@ h4 small {
 }
 
 header nav,
-.mainContent,
+.main-content,
 footer.container-fluid {
     max-width: 900px;
+}
+
+header,
+.navbar-brand,
+.main-content,
+footer {
+    font-size: 120%;
 }
 
 footer.container-fluid {
