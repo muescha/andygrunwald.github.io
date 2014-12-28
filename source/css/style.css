@@ -17,6 +17,11 @@ footer {
     font-size: 120%;
 }
 
+.navbar-brand {
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
 .navbar {
     background-color: #fff;
     border-top: 0;
