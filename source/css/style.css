@@ -17,34 +17,6 @@ footer {
     font-size: 120%;
 }
 
-footer.container-fluid {
-    margin-top: 15px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border-top: 1px solid #e7e7e7;
-}
-
-@media (max-width: 767px) {
-    ul.item-list li span {
-        display: none;
-    }
-
-    footer .social {
-        text-align: left;
-        padding-top: 15px;
-    }
-}
-@media (min-width: 980px) {
-    body {
-        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
-        padding-bottom: 40px;
-    }
-}
-
-/**
- * New added styled
- *
- */
 .navbar {
     background-color: #fff;
     border-top: 0;
@@ -70,4 +42,33 @@ footer a {
 
 footer a:hover {
     text-decoration: none;
+}
+
+footer.container-fluid {
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: 1px solid #e7e7e7;
+}
+
+/**
+ * Media queries
+ *
+ */
+@media (max-width: 767px) {
+    ul.item-list li span {
+        display: none;
+    }
+
+    footer .social {
+        text-align: left;
+        padding-top: 15px;
+    }
+}
+
+@media (min-width: 980px) {
+    body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
 }
