@@ -15,8 +15,7 @@ rm -rf output_prod || exit 0;
 ./sculpin.phar generate --env=prod
 if [ $? -ne 0 ]; then echo "Could not generate the site"; exit 1; fi
 
-# Generate the domain file for github
-# TODO
+cp CNAME ./output_prod/
 
 cd ./output_prod
 
