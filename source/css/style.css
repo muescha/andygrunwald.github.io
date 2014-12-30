@@ -52,6 +52,11 @@ nav.article a {
     text-decoration: none;
 }
 
+p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
 ul.item-list li span,
 footer,
 footer a {
