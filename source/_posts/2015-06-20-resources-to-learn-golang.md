@@ -36,3 +36,7 @@ Further useful resources are:
 * [avelino/awesome-go](https://github.com/avelino/awesome-go) to get a curated list of awesome Go frameworks, libraries and software
 
 And now: **Have fun** during learn a new programing language!
+
+--
+
+[Thread at Hacker News](https://news.ycombinator.com/item?id=9751121)
