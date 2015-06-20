@@ -24,11 +24,13 @@ And of course: Next to this **start your own Go project**.
 I recomment to start with it after you finished the [A Tour of Go](http://tour.golang.org/) and during reading [Go in Action](http://www.goinactionbook.com/).
 
 Some ideas for a project:
+
 * A small rest API (http server)
 * A small chat client (sockets)
 * A small web / mailinglist crawler (concurrency)
 
 Further useful resources are:
+
 * [Go by Example](https://gobyexample.com/) for example code how to use different features
 * [Golang weekly](http://golangweekly.com/) to keep updates of the Go community by email
 * [/r/golang](http://www.reddit.com/r/golang) to follow the reddit community about Go
