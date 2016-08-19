@@ -1,32 +1,35 @@
 #!/bin/bash
 
 #
-# Basic script to publish sculpin content to github pages
-# I know that git push --force is not the best trick
-# But hey, for this use case and the result of static html it works fine
-# We still keep the history of development in the master branch
+# Basic script to publish the content of the static site generator to github.
+# The generated content will be our github pages.
 #
+echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Cleanup
-rm -rf output_prod || exit 0;
+rm -rf public || exit 0;
 
-# Prepare output
-./sculpin.phar install
-./sculpin.phar generate --env=prod
+# Build the project.
+hugo
 if [ $? -ne 0 ]; then echo "Could not generate the site"; exit 1; fi
 
-cp CNAME ./output_prod/
+cp CNAME ./public/
 
-cd ./output_prod
-
-# Create a fresh git repo
-git init
-
-git config user.email "andygrunwald@gmail.com"
-git config user.name "Andy Grunwald"
-
-git remote add origin git@github.com:andygrunwald/andygrunwald.github.io.git
+# Add changes to git.
 git add -A
-git commit -m "New version of tech blog"
-git push --force origin master
-if [ $? -ne 0 ]; then echo "Could not publish the site"; exit 1; fi
+
+# Commit changes.
+msg="Rebuilding the site - `date`"
+if [ $# -eq 1 ]
+  then msg="$1"
+fi
+git commit -m "$msg"
+
+# Push source to main line and gh-pages
+git push origin master
+if [ $? -ne 0 ]; then echo "Could not publish latest state to master"; exit 1; fi
+
+git subtree push --prefix=public git@github.com:andygrunwald/andygrunwald.github.io.git gh-pages
+if [ $? -ne 0 ]; then echo "Could not publish generated state to gh-pages branch"; exit 1; fi
+
+echo -e "\033[0;32mDone\033[0m"
