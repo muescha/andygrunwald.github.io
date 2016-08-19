@@ -7,13 +7,15 @@
 echo -e "\033[0;32mDeploying updates to GitHub ...\033[0m"
 
 # Cleanup
-rm -rf public || exit 0;
+rm -rf docs || exit 0;
 
 # Build the project.
 hugo
 if [ $? -ne 0 ]; then echo "Could not generate the site"; exit 1; fi
 
-cp CNAME ./public/
+mv ./public ./docs
+
+cp CNAME ./docs/
 
 # Add changes to git.
 git add -A
@@ -28,8 +30,5 @@ git commit -m "$msg"
 # Push source to main line and gh-pages
 git push origin master
 if [ $? -ne 0 ]; then echo "Could not publish latest state to master"; exit 1; fi
-
-git subtree push --prefix=public git@github.com:andygrunwald/andygrunwald.github.io.git gh-pages
-if [ $? -ne 0 ]; then echo "Could not publish generated state to gh-pages branch"; exit 1; fi
 
 echo -e "\033[0;32mDeploying updates to GitHub ... Done\033[0m"
