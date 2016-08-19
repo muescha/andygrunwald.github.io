@@ -19,6 +19,8 @@ if [ $? -ne 0 ]; then echo "Could not generate the site"; exit 1; fi
 
 cp CNAME ./public/
 
+cd ./public
+
 # Add changes to git by create a fresh git repo
 git init
 
