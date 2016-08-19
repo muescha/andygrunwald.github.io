@@ -1,0 +1,223 @@
+		<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>TYPO3-Analytics: Release of version v0.0.1 &middot; Andy Grunwald</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-Frame-Options" content="sameorigin">
+	<meta name="author" content="Andy Grunwald">
+	<meta name="description" content="Andy Grunwald - Software Engineer from Germany">
+	<meta name="keywords" content="backend,infrastructure,operations,devops,computer science,web development">
+	<meta name="generator" content="Hugo 0.16" />
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="http://andygrunwald.com/css/main.css">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="http://andygrunwald.com/favicon.ico" type="image/x-icon">
+
+	<!-- RSS -->
+	
+
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+</head>
+		<body>
+			<header class="site-header">
+	<div class="branding">
+		<a href="http://andygrunwald.com/">
+		
+			<img class="avatar" src="https://www.gravatar.com/avatar/56b1575ab3b392b92c19bbcf39e808f1?s=100&d=identicon" alt=""/>
+		
+		</a>
+		<h1 class="site-title">
+			<a href="http://andygrunwald.com/">Andy Grunwald</a>
+		</h1>
+	</div>
+	<nav class="site-nav">
+		<ul>
+	      	
+	        	<li><a href="/about/"> About </a></li>
+	      	
+
+	      	
+
+
+
+
+<li>
+	<a href="mailto:andygrunwald@gmail.com" title="Email">
+		<i class="fa fa-fw fa-envelope"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://github.com/andygrunwald" title="Github">
+		<i class="fa fa-fw fa-github"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+<li>
+	<a href="https://www.linkedin.com/in/andy-grunwald-09aa265a" title="Linkedin">
+		<i class="fa fa-fw fa-linkedin"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://twitter.com/andygrunwald" title="Twitter">
+		<i class="fa fa-fw fa-twitter"></i>
+	</a>
+</li>
+
+
+
+
+
+
+	    </ul>
+	</nav>
+</header>
+
+			<div class="content">
+				
+				<article>
+					<header>
+						<h1 class="title">TYPO3-Analytics: Release of version v0.0.1</h1>
+					</header>
+				
+
+				<section class="post-content">
+					
+
+<p>Today i tagged and released version <a href="https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.0.1">v0.0.1</a> of the project <a href="https://github.com/andygrunwald/TYPO3-Analytics">TYPO3-Analytics</a>.
+After <a href="http://www.timeanddate.com/date/durationresult.html?d1=19&amp;m1=4&amp;y1=2013&amp;d2=15&amp;m2=2&amp;y2=2014&amp;ti=on">303 days</a> and <a href="https://github.com/andygrunwald/TYPO3-Analytics/commits/v0.0.1">144 commits</a> later, i decided to make a &ldquo;cut&rdquo; and start a new version.</p>
+
+<p>This version is a first (workable as far as i know) &ldquo;proof of concept&rdquo; for a repository mining platform to produce (community) metrics of various systems.
+The first example system is <a href="http://typo3.org/">TYPO3</a>.</p>
+
+<h1 id="what-does-this-version-include">What does this version include?</h1>
+
+<p>13 <a href="http://www.rabbitmq.com/">RabbitMQ</a> consumer written in PHP:</p>
+
+<ul>
+<li>Download a git resource</li>
+<li>Download a http resource</li>
+<li>Extract a tar.gz archive</li>
+<li>Crawl a Gerrit server</li>
+<li>Crawl a single Gerrit project</li>
+<li>Crawl a Gitweb site</li>
+<li>Crawl a NNTP server</li>
+<li>Crawl a single NNTP group</li>
+<li>Analyze the filesize of a file</li>
+<li>Analyze a VCS repository via CVSAnaly</li>
+<li>Analyze PHP source code via PHPLoc</li>
+<li>Analyze PHP source code via pDepend</li>
+<li>Analyze used programming languages via github linguist</li>
+</ul>
+
+<p>4 RabbitMQ producer written in PHP:</p>
+
+<ul>
+<li>Messages to crawl a Gerrit code review system</li>
+<li>Messages to download TYPO3 releases from get.typo3.org</li>
+<li>Messages to crawl a Gitweb site</li>
+<li>Messages to crawl a NNTP server</li>
+</ul>
+
+<p>This release can be downloaded from github: <a href="https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.0.1">v0.0.1: Release of version 0.0.1</a></p>
+
+<h1 id="what-will-be-tackled-in-the-next-version">What will be tackled in the next version?</h1>
+
+<p>There is no concrete roadmap for the next version(s).
+And i do not know which version number will it be.
+Maybe a new minor, maybe a new major version.
+The next version of TYPO3-Analytics will focus on:</p>
+
+<ul>
+<li>code quality</li>
+<li>testing</li>
+<li>stability</li>
+<li>flexibility</li>
+<li>documentation</li>
+</ul>
+
+<p>This mean that i try to refactor some code, create unit and / or integration tests, try to tackle some bugs and &ldquo;unused&rdquo; concepts to make a better use of existing functionality (e.g. <a href="http://www.rabbitmq.com/dlx.html">RabbitMQ Dead Lettering</a>) and to add more parameter to messages to decouple the exiting consumer from the proof of concept TYPO3.</p>
+
+<p>Further more i want to write more documentation and some blog posts about the architecture and concept of this project. I got the hope to find more contributer or to find more people which are interested in it. Maybe it will help. We will see.</p>
+
+<p>If you want to contribute and you do not know how, just contact me via Twitter (<a href="https://twitter.com/andygrunwald">@andygrunwald</a>) or by e-mail (<a href="https://github.com/andygrunwald">github profile</a>).</p>
+
+
+				<hr>
+
+				<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'andygrunwald';
+    var disqus_identifier = 'http:\/\/andygrunwald.com\/blog\/typo3-analytics-release-of-version-v0.0.1\/';
+    var disqus_title = 'TYPO3-Analytics: Release of version v0.0.1';
+    var disqus_url = 'http:\/\/andygrunwald.com\/blog\/typo3-analytics-release-of-version-v0.0.1\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+				</section>
+
+			</article>
+			<footer class="site-footer">
+	<p class="text">&copy; 2016 - Andy Grunwald</p>
+</footer>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64342623-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+		</div>
+	</body>
+</html>

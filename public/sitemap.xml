@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://andygrunwald.com/</loc>
+    <lastmod>2016-07-31T18:53:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andygrunwald.com/about/</loc>
+    <lastmod>2016-07-31T18:53:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andygrunwald.com/blog/resources-to-learn-golang/</loc>
+    <lastmod>2015-06-20T10:42:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andygrunwald.com/blog/typo3-analytics-goes-jacobine/</loc>
+    <lastmod>2014-04-22T12:45:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.1.0/</loc>
+    <lastmod>2014-04-19T12:51:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andygrunwald.com/blog/the-story-about-the-topic-of-my-bachelor-thesis/</loc>
+    <lastmod>2014-03-21T13:01:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andygrunwald.com/blog/typo3-analytics-is-looking-for-a-new-name---suggestions-welcome/</loc>
+    <lastmod>2014-03-03T13:06:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.0.1/</loc>
+    <lastmod>2014-02-15T13:10:00+02:00</lastmod>
+  </url>
+  
+</urlset>

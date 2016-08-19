@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics on Andy Grunwald</title>
+    <link>http://andygrunwald.com/tags/analytics/</link>
+    <description>Recent content in Analytics on Andy Grunwald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Apr 2014 12:45:13 +0200</lastBuildDate>
+    <atom:link href="http://andygrunwald.com/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TYPO3-Analytics goes Jacobine</title>
+      <link>http://andygrunwald.com/blog/typo3-analytics-goes-jacobine/</link>
+      <pubDate>Tue, 22 Apr 2014 12:45:13 +0200</pubDate>
+      
+      <guid>http://andygrunwald.com/blog/typo3-analytics-goes-jacobine/</guid>
+      <description>
+
+&lt;p&gt;For quite some time i was looking for a new name for an open source project of mine: &lt;em&gt;TYPO3-Analytics&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am (sadly) not creative in naming things or painting.
+The biggest part of creativity is during development and programming.
+To find a good name which sounds nice and got a relation to a tool, task or goal is (in my point of view) very difficult.&lt;/p&gt;
+
+&lt;p&gt;There are some names of projects i like, because the sound good like &lt;a href=&#34;https://flynn.io/&#34;&gt;Flynn.io&lt;/a&gt; or &lt;a href=&#34;http://hood.ie/&#34;&gt;hood.ie&lt;/a&gt;.
+At 3rd March 2014 i wrote a blogpost about this challenge to use the power of the community: TYPO3-Analytics is looking for a new name - suggestions welcome!&lt;/p&gt;
+
+&lt;p&gt;Next to this blog post i got on my girlfriends nerves with the recurring questions like &amp;ldquo;What do you think about name x? Or y?&amp;rdquo;.
+And i asked my twitter timeline many times and wondered how for example Apache chose names for their product.
+They &lt;a href=&#34;http://www.apache.org/dev/project-names.html&#34;&gt;got rules for product names&lt;/a&gt;, but i did not found a resource who describes the story about this names.
+&lt;a href=&#34;https://twitter.com/irnnr&#34;&gt;Ingo&lt;/a&gt; &lt;a href=&#34;https://twitter.com/irnnr/status/449367546211221504&#34;&gt;mentioned&lt;/a&gt; that &lt;a href=&#34;https://tika.apache.org/&#34;&gt;Tika&lt;/a&gt; is one of the project founders’ kid’s toy pet’s name.
+&lt;a href=&#34;https://twitter.com/shirleman&#34;&gt;Scott&lt;/a&gt; &lt;a href=&#34;https://twitter.com/shirleman/status/449614357022773248&#34;&gt;suggested&lt;/a&gt; Donk, because it was his stuffed donkey&amp;rsquo;s name as a kid :D
+Anyway.&lt;/p&gt;
+
+&lt;p&gt;I thought a lot about possible names and talked to many people.
+Some of the ideas were &lt;em&gt;Vizben&lt;/em&gt;, &lt;em&gt;Benvis&lt;/em&gt;, &lt;em&gt;Mevis&lt;/em&gt;, &lt;em&gt;Pinocchio&lt;/em&gt;, &lt;em&gt;Gepetto&lt;/em&gt;, &lt;em&gt;Viva con analysis&lt;/em&gt;, &lt;em&gt;Knock.io&lt;/em&gt; and so on.
+Nothing special.
+Nothing &amp;ldquo;good&amp;rdquo; enough.
+Nothing i like at the first time.
+So i continued my search.
+During a lunch break i talked to my colleagues &lt;a href=&#34;https://twitter.com/janvanthoor&#34;&gt;Jan&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/milchjieper&#34;&gt;Dominik&lt;/a&gt; about this topic.
+Jan mentioned that i might have to chose a general topic which i focus on for the name search.
+He suggested mining.
+I liked the idea and started my research in the mining area &amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-new-name-jacobine&#34;&gt;The new name: &lt;em&gt;Jacobine&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;I was born and live in &lt;a href=&#34;http://en.wikipedia.org/wiki/Duisburg&#34;&gt;Duisburg, Germany&lt;/a&gt;.
+Duisburg is a small town in &lt;a href=&#34;http://en.wikipedia.org/wiki/North_Rhine-Westphalia&#34;&gt;North Rhine-Westphalia&lt;/a&gt; and part of the Ruhrgebiet.
+Duisburg is very popular for its steel industry and coal mining (see the &lt;a href=&#34;http://en.wikipedia.org/wiki/Landschaftspark_Duisburg-Nord&#34;&gt;Landschaftspark Duisburg-Nord&lt;/a&gt; or a &lt;a href=&#34;http://de.wikipedia.org/wiki/Liste_von_Bergwerken_in_Nordrhein-Westfalen#Duisburg&#34;&gt;list of coal mines in Duisburg&lt;/a&gt;).
+In 1855 an english company started to build a new mine called &lt;em&gt;Jacobine&lt;/em&gt;.
+It was located in Duisburg-Meiderich near to &lt;a href=&#34;http://en.wikipedia.org/wiki/Oberhausen&#34;&gt;Oberhausen&lt;/a&gt;.
+In 1859 the mine have to shutdown, because it was damaged by water.
+11 years later, in 1870, the mine was repaired.
+In 1871 the mine was put into production again under a new name Schacht 1.
+Schacht 1 was part of the bigger mine &lt;a href=&#34;http://de.wikipedia.org/wiki/Zeche_Westende&#34;&gt;Westende&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dominik mentioned that the name &lt;em&gt;Jacobine&lt;/em&gt; got a bad taste, because it was damaged and has to be shutdown.
+Dominik is right, but the mine was repaired and put into production again.
+I would agree Dominik that &lt;em&gt;Jacobine&lt;/em&gt; is a bad name for a management software or something in this area.
+But we do not build a management software ;)
+And one important fact: I like the new name.
+It is unique in the software world (as far as i know), it got a relation to the main area of the tool we build ([data]mining) and a relationship to my lovely town Duisburg (but of course contributor from other cities and countries are welcome as well :)).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So lets try to get not damaged by water :)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;migrate-your-typo3-analytics-clone&#34;&gt;Migrate your TYPO3-Analytics clone&lt;/h2&gt;
+
+&lt;p&gt;If you got an existing clone of the project with the old name TYPO3-Analytics you have to migrate the git repository to keep up to date.
+Here we go:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ git remote -v
+origin git@github.com:andygrunwald/TYPO3-Analytics.git (fetch)
+origin git@github.com:andygrunwald/TYPO3-Analytics.git (push)
+
+$ git remote set-url origin git@github.com:andygrunwald/Jacobine.git
+
+$ git remote -v
+origin git@github.com:andygrunwald/Jacobine.git (fetch)
+origin git@github.com:andygrunwald/Jacobine.git (push)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Please pay attention to the name of your remote (origin or maybe &lt;a href=&#34;https://help.github.com/articles/syncing-a-fork&#34;&gt;upstream&lt;/a&gt;) and the protocol you use (&lt;em&gt;git://&lt;/em&gt; or &lt;em&gt;https://&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;The ecosystem around &lt;em&gt;Jacobine&lt;/em&gt; (the &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics-Web&#34;&gt;web frontend&lt;/a&gt;, the &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics-Vagrant&#34;&gt;vagrant machine&lt;/a&gt; and the &lt;a href=&#34;https://github.com/andygrunwald/chef-typo3analytics&#34;&gt;chef cookbook&lt;/a&gt;) will be renamed in the next days.&lt;/p&gt;
+
+&lt;p&gt;If you got any kind of problems or need help to migrate your clone i will help you as much as possible.
+Just add a comment, send a tweet (&lt;a href=&#34;https://twitter.com/andygrunwald&#34;&gt;@andygrunwald&lt;/a&gt;) or send me an email.&lt;/p&gt;
+
+&lt;p&gt;PS: Thanks to all people who was involved to find a new name and attend all the discussions!
+PPS: And thanks to &lt;a href=&#34;https://twitter.com/georg_ringer&#34;&gt;Georg&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/ffffux&#34;&gt;Lena&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/benvantende&#34;&gt;Ben&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/misprintedtype&#34;&gt;Ola&lt;/a&gt; who attend my &lt;a href=&#34;https://twitter.com/andygrunwald/status/458286697416245249&#34;&gt;last survey on twitter&lt;/a&gt; regarding &lt;em&gt;Jacobine&lt;/em&gt; or &lt;em&gt;Jacob&lt;/em&gt; (self made abbreviation for &lt;em&gt;Jacobine&lt;/em&gt;) - 3:1 for &lt;em&gt;Jacobine&lt;/em&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TYPO3-Analytics: Release of version v0.1.0</title>
+      <link>http://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.1.0/</link>
+      <pubDate>Sat, 19 Apr 2014 12:51:03 +0200</pubDate>
+      
+      <guid>http://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.1.0/</guid>
+      <description>
+
+&lt;p&gt;The project grows and grows :)
+The next release of &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.1.0&#34;&gt;TYPO3-Analytics in version v0.1.0&lt;/a&gt; is out!
+This release covers various nice features, enhancements and bugfixes.&lt;/p&gt;
+
+&lt;p&gt;Get the new version now! Its hot: &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.1.0&#34;&gt;TYPO3-Analytics v0.1.0&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;But what was done in the last &lt;a href=&#34;http://www.timeanddate.com/date/durationresult.html?d1=15&amp;amp;m1=2&amp;amp;y1=2014&amp;amp;d2=19&amp;amp;m2=4&amp;amp;y2=2014&amp;amp;ti=on&#34;&gt;65 days&lt;/a&gt; and &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/commits/v0.1.0&#34;&gt;109 commits&lt;/a&gt;?
+Some numbers (from the &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/compare/v0.0.1...v0.1.0&#34;&gt;github compare view&lt;/a&gt;):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;70 changed files&lt;/li&gt;
+&lt;li&gt;5,934 line additions&lt;/li&gt;
+&lt;li&gt;1,297 line deletions&lt;/li&gt;
+&lt;li&gt;1 contributor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here is a list of the most important changes.&lt;/p&gt;
+
+&lt;h2 id=&#34;main-changes&#34;&gt;Main changes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Added a changelog&lt;/li&gt;
+&lt;li&gt;[Consumer Download\HTTP] Added error check for rename operation&lt;/li&gt;
+&lt;li&gt;[Consumer Analysis\PHPLoc] Parse output directly without writing a xml file to disk&lt;/li&gt;
+&lt;li&gt;[Consumer Analysis\CVSAnaly] Moved cvsanaly settings to seperate config file&lt;/li&gt;
+&lt;li&gt;[Consumer] Centralized context generation for logging&lt;/li&gt;
+&lt;li&gt;[Consumer Analysis\CVSAnaly] Set writable path&lt;/li&gt;
+&lt;li&gt;Added (useful) information to composer.json about the project&lt;/li&gt;
+&lt;li&gt;[Consumer] Adjusted all consumer to use the new symfony/process component&lt;/li&gt;
+&lt;li&gt;Added symfony/process component and created a ProcessFactory&lt;/li&gt;
+&lt;li&gt;Updated monolog from 1.7.0 to 1.8.0 and updated various dependencies&lt;/li&gt;
+&lt;li&gt;Removed sudo-usage of system calls&lt;/li&gt;
+&lt;li&gt;Changes auto_delete default option for queues to false&lt;/li&gt;
+&lt;li&gt;[Logging] No new line after every log entry. One line per log entry&lt;/li&gt;
+&lt;li&gt;[Consumer] Adjusted all consumer to use the new structure of DLX&lt;/li&gt;
+&lt;li&gt;[Consumer] Added a method to reject a message and reworked consumer to reject messages&lt;/li&gt;
+&lt;li&gt;[Consumer / Producer] Added support for dead lettering of RabbitMQ and reworked setup of queues and exchanges&lt;/li&gt;
+&lt;li&gt;[Consumer Analysis\GithubLinguist] Fixed fatal error during logging&lt;/li&gt;
+&lt;li&gt;Added a bunch of comments with message formats to every consumer&lt;/li&gt;
+&lt;li&gt;Added class comments to all Commands&lt;/li&gt;
+&lt;li&gt;[Producer ReviewTYPO3OrgCommand] Removed, because this is obsolete&lt;/li&gt;
+&lt;li&gt;[Consumer Download\HTTP] Removed TYPO3 dependency in file name&lt;/li&gt;
+&lt;li&gt;Added File object&lt;/li&gt;
+&lt;li&gt;[Consumer Download\HTTP] Replaced wget download with a curl download&lt;/li&gt;
+&lt;li&gt;Add missing methods to ConsumerInterface&lt;/li&gt;
+&lt;li&gt;Set product under MIT License&lt;/li&gt;
+&lt;li&gt;Added PHP &amp;gt;= 5.4 as requirement&lt;/li&gt;
+&lt;li&gt;Refactored the AMQPConnection and AMQPMessage into a factory&lt;/li&gt;
+&lt;li&gt;Added PSR-2 as coding guideline standard&lt;/li&gt;
+&lt;li&gt;Added first unit tests for several components&lt;/li&gt;
+&lt;li&gt;Integrated Travis-CI as continuous integration environment&lt;/li&gt;
+&lt;li&gt;Integrated Versioneye for dependency checks&lt;/li&gt;
+&lt;li&gt;Integrated scrutinizer-ci for code quality analysis&lt;/li&gt;
+&lt;li&gt;[Consumer Crawler\Gerrit] Add message acknowledgement if no projects are available&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;did-we-reach-the-goal-roadmap-from-the-v0-0-1-release&#34;&gt;Did we reach the goal / roadmap from the v0.0.1 release?&lt;/h2&gt;
+
+&lt;p&gt;In the release of version v0.0.1 we defined some goals for the next release (this one), but did we reach them? Lets check it:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;code quality&lt;/em&gt;: We have &lt;strong&gt;refactored&lt;/strong&gt; many lines of code and extracted them to seperate classes and introduced common &lt;strong&gt;design patterns&lt;/strong&gt; like &lt;strong&gt;Factory&lt;/strong&gt;. Further more we`ve introduced services like &lt;strong&gt;&lt;a href=&#34;https://scrutinizer-ci.com/&#34;&gt;scrutinizer&lt;/a&gt;&lt;/strong&gt; to get some &lt;strong&gt;numbers about quality&lt;/strong&gt;. Standards like &lt;strong&gt;&lt;a href=&#34;https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md&#34;&gt;PSR-2&lt;/a&gt;&lt;/strong&gt; were applied.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;testing&lt;/em&gt;: &lt;strong&gt;Unit tests&lt;/strong&gt; was introduced in this release. The &lt;strong&gt;code coverage&lt;/strong&gt; is not very high (&lt;strong&gt;18%&lt;/strong&gt;), but 18% are better than nothing! &lt;strong&gt;&lt;a href=&#34;https://travis-ci.org/&#34;&gt;TravisCI&lt;/a&gt;&lt;/strong&gt; was introduced to check the &lt;strong&gt;success&lt;/strong&gt; of the unit tests &lt;strong&gt;continuously&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;stability&lt;/em&gt;: Many &lt;strong&gt;bugs&lt;/strong&gt; were &lt;strong&gt;fixed&lt;/strong&gt; (e.g. Fatal error in GithubLinguist-Logging), external &lt;strong&gt;dependencies updated&lt;/strong&gt; (e.g. &lt;a href=&#34;https://github.com/Seldaek/monolog&#34;&gt;Monolog&lt;/a&gt; from 1.7 to 1.8), &lt;strong&gt;new components introduced&lt;/strong&gt; to make use of proven code (e.g. &lt;a href=&#34;http://symfony.com/doc/current/components/process.html&#34;&gt;symfony/process&lt;/a&gt; component) or &lt;strong&gt;more error checks&lt;/strong&gt; added to find some failure faster.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;flexibility&lt;/em&gt;: The product is now &lt;strong&gt;released under&lt;/strong&gt; the &lt;strong&gt;&lt;a href=&#34;http://opensource.org/licenses/MIT&#34;&gt;MIT license&lt;/a&gt;&lt;/strong&gt; as a permissive free software license. This product can now be official used in several environments (e.g. commercial). We have &lt;strong&gt;removed hardcoded dependencies&lt;/strong&gt; (e.g. TYPO3-Related names in Download\HTTP consumer) or made &lt;strong&gt;more attributes configurable&lt;/strong&gt; (e.g. &lt;a href=&#34;https://github.com/MetricsGrimoire/CVSAnalY&#34;&gt;CVSAnaly&lt;/a&gt; config) or &lt;strong&gt;support more RabbitMQ queue and exchange features&lt;/strong&gt; on consumer / producer level.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;documentation&lt;/em&gt;: There were &lt;strong&gt;several comments added&lt;/strong&gt; to the source code. Every class got a class header comment which &lt;strong&gt;describes&lt;/strong&gt; what &lt;strong&gt;the class is responsible&lt;/strong&gt; for. Every &lt;strong&gt;consumer&lt;/strong&gt; got the &lt;strong&gt;accepted message format&lt;/strong&gt; in the docs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In general this release and the goals was a success.
+One (important) goal was missed: Write more blog posts about the architecture and concepts of this project.
+This goal was missed due to the lack of time.
+Next to this goal during the development of TYPO3-Analytics another open source project CVSAnaly was improved a lot.
+&lt;a href=&#34;https://github.com/MetricsGrimoire/CVSAnalY/commits?author=andygrunwald&#34;&gt;See the commit history&lt;/a&gt;.
+Why? Because TYPO3-Analytics use this tool and we want to use more features of it ;)&lt;/p&gt;
+
+&lt;h2 id=&#34;roadmap-for-the-next-release&#34;&gt;Roadmap for the next release&lt;/h2&gt;
+
+&lt;p&gt;Currently there is no strict roadmap for the next release.
+But we will try to focus on some things:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Find a name&lt;/em&gt;: We are looking for a new name for quite some time (see &amp;ldquo;TYPO3-Analytics is looking for a new name - suggestions welcome!&amp;rdquo;). We try to find a new name and apply it to the ecosystem&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Make it more production ready&lt;/em&gt;: We try to make the product more production ready. How? Add some more error checks, add some checks if the system is production ready, add a proof of concept for a more easier deployment (e.g. on a amazon cloud). Ideas welcome!&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Prove the &amp;ldquo;productioness&amp;rdquo;&lt;/em&gt;: We want to start some small analysis of open source projects and create reports for it that other people can see how to use this tool and what is it good for and how amazing such small piece of code can be.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Spread the work&lt;/em&gt;: We want to communicate more (on barcamps, conferences, blogs) about it. We want to try to get more / the first external contributor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you want to see some features in it, contact me!&lt;/p&gt;
+
+&lt;p&gt;We know that this are hard goals.
+We try to reach as much as possible of them.
+If you want to support us, see the next chapter ;)&lt;/p&gt;
+
+&lt;h2 id=&#34;be-part-of-the-the-next-release&#34;&gt;Be part of the the next release&lt;/h2&gt;
+
+&lt;p&gt;We are looking for motivated contributors for this project.
+You do not have to be a programmer.
+We are looking for designers, frontend people, people for communication, people who got new ideas or want to push some new analysis.&lt;/p&gt;
+
+&lt;p&gt;If you do not have (spare) time for this, we are looking for sponsors as well.
+If you want to push some results, we would be proud to welcome you as a sponsor :)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you do not know how to contribute or how to get into it&lt;/strong&gt;: I &lt;strong&gt;will offer workshops (for free!)&lt;/strong&gt; for TYPO3-Analytics, &lt;strong&gt;how this works&lt;/strong&gt;, about the &lt;strong&gt;architecture&lt;/strong&gt;, about the &lt;strong&gt;goal&lt;/strong&gt;, about the &lt;strong&gt;motivation&lt;/strong&gt; or about &lt;strong&gt;stuff you are interested in&lt;/strong&gt;.
+I can offer rooms in Düsseldorf, Germany for it with internet connection for this.
+If you are interested, just ping me as well.&lt;/p&gt;
+
+&lt;p&gt;If you are interested just contact me via Twitter (&lt;a href=&#34;https://twitter.com/andygrunwald&#34;&gt;@andygrunwald&lt;/a&gt;) or by e-mail (&lt;a href=&#34;https://github.com/andygrunwald&#34;&gt;github profile&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TYPO3-Analytics is looking for a new name - suggestions welcome!</title>
+      <link>http://andygrunwald.com/blog/typo3-analytics-is-looking-for-a-new-name---suggestions-welcome/</link>
+      <pubDate>Mon, 03 Mar 2014 13:06:41 +0200</pubDate>
+      
+      <guid>http://andygrunwald.com/blog/typo3-analytics-is-looking-for-a-new-name---suggestions-welcome/</guid>
+      <description>
+
+&lt;p&gt;At &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/commit/b44dd91e359ad55478919cc94278d26fffbdde03&#34;&gt;Apr 19, 2013&lt;/a&gt; i started &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics&#34;&gt;TYPO3-Analytics&lt;/a&gt; to create a prototype or proof of concept to make my first steps in fields data mining / software repository mining, statistics and data visualisation.&lt;/p&gt;
+
+&lt;p&gt;At this time i got a big and deep knowledge of the &lt;a href=&#34;http://typo3.org/&#34;&gt;TYPO3&lt;/a&gt; ecosystem (code, people, tools, systems, processes, events, etc.) and the TYPO3 community manager &lt;a href=&#34;http://ben.vanten.de/&#34;&gt;ben van &amp;rsquo;t ende&lt;/a&gt; motivated me to create some metrics ;)
+So the first project was TYPO3.&lt;/p&gt;
+
+&lt;p&gt;For a github repository you need a name.
+So i was in the situation to name my proof of concept.
+Due to the topics above and the missing flash of inspiration i chose the name &lt;em&gt;TYPO3-Analytics&lt;/em&gt;.
+From my point of view this name does not fit any more for some reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The project aims to use public available information over centralized / standard ways (e.g. APIs). With this in mind it is possible to analyze various projects. Not only TYPO3. The prefix &lt;em&gt;TYPO3&lt;/em&gt; is not necessary and might be lead to confusion if e.g. &lt;a href=&#34;https://github.com/symfony/symfony&#34;&gt;Symfony2&lt;/a&gt; will be analyzed.&lt;/li&gt;
+&lt;li&gt;The complete project is much more than Analytics. It is about collect and receive data, produce new information and knowledge about this data with the usage of algoritms of data, web and text mining, visualize data and activity in various ways, motivate people to more open source works, say thank you by a wow effect of what a single person has achieved and much more.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This are only two reasons.
+But i think that this are two really good reasons to choose a new name for this baby.
+And this is the time where YOUR innovation comes in.
+We are looking for a new name with your help.
+Here are some keywords which might be related to this project:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;data&lt;/li&gt;
+&lt;li&gt;open source&lt;/li&gt;
+&lt;li&gt;people&lt;/li&gt;
+&lt;li&gt;contributer&lt;/li&gt;
+&lt;li&gt;data / web / text mining&lt;/li&gt;
+&lt;li&gt;software repository mining&lt;/li&gt;
+&lt;li&gt;metrics&lt;/li&gt;
+&lt;li&gt;statistics&lt;/li&gt;
+&lt;li&gt;visualisation&lt;/li&gt;
+&lt;li&gt;wow&lt;/li&gt;
+&lt;li&gt;motivation&lt;/li&gt;
+&lt;li&gt;information&lt;/li&gt;
+&lt;li&gt;knowledge&lt;/li&gt;
+&lt;li&gt;community&lt;/li&gt;
+&lt;li&gt;results&lt;/li&gt;
+&lt;li&gt;numbers&lt;/li&gt;
+&lt;li&gt;Your keyword here &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I tried various startup name generators to get some ideas for a new, cool and fancy or usable and logical, name.
+But i was not successful.
+Maybe you got some ideas?
+EVERY idea is welcome.
+New keywords are welcome, too.
+Please post your idea in the comments or send a tweet to my account &lt;a href=&#34;https://twitter.com/andygrunwald&#34;&gt;@andygrunwald&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The first idea came from &lt;a href=&#34;https://twitter.com/michadu_typo3&#34;&gt;Michael Oehlhof&lt;/a&gt;: &lt;em&gt;TYPO3 CoMet&lt;/em&gt; - CoMet means Community Metrics.
+Not bad this idea.
+But the TYPO3 prefix is already there and Community metrics are a bit to general.
+Or what do you think? Your opinion is welcome too.
+But anyway.
+Thanks for this idea Michael!&lt;/p&gt;
+
+&lt;p&gt;Thanks for your help!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-at-2014-03-05&#34;&gt;Update at 2014-03-05&lt;/h3&gt;
+
+&lt;p&gt;Awesome! I received some name suggestions from different people.
+A &lt;strong&gt;big thanks&lt;/strong&gt; to this!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;René Kerner (&lt;a href=&#34;https://twitter.com/rk3rn3r&#34;&gt;@rk3rn3r&lt;/a&gt;) &lt;a href=&#34;https://twitter.com/rk3rn3r/status/440604026368180224&#34;&gt;suggested&lt;/a&gt; &lt;em&gt;knoff-hoff&lt;/em&gt;, related to the german tv show &amp;ldquo;&lt;a href=&#34;http://de.wikipedia.org/wiki/Die_Knoff-Hoff-Show&#34;&gt;Die Knoff-Hoff-Show&lt;/a&gt;&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Christoph Moeller (&lt;a href=&#34;https://twitter.com/npublish_chris&#34;&gt;@npublish_chris&lt;/a&gt;) &lt;a href=&#34;https://twitter.com/npublish_chris/status/440969565472698368&#34;&gt;mentioned&lt;/a&gt; &lt;em&gt;Shunkan&lt;/em&gt;, japanase for &amp;ldquo;moment&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Mario Mainz (&lt;a href=&#34;https://twitter.com/m_mainz&#34;&gt;@m_mainz&lt;/a&gt;) raised some acronyms like &lt;em&gt;SWARM&lt;/em&gt; (SoftWAre Metrics) or &lt;em&gt;SWAN&lt;/em&gt; (SoftWare ANalytics), &lt;a href=&#34;https://twitter.com/m_mainz/status/440972275597066241&#34;&gt;lazy generated&lt;/a&gt; by an &lt;a href=&#34;http://acronymcreator.net/ace.py&#34;&gt;Acronym Creator&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Georg Ringer (&lt;a href=&#34;https://twitter.com/georg_ringer[&#34;&gt;@georg_ringer&lt;/a&gt;) &lt;a href=&#34;https://twitter.com/georg_ringer/status/441263913896644608&#34;&gt;twittered&lt;/a&gt; &lt;em&gt;quatrix&lt;/em&gt;, &lt;em&gt;quatrics&lt;/em&gt;, &lt;em&gt;metriquality&lt;/em&gt; and &lt;em&gt;metaqual&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TYPO3-Analytics: Release of version v0.0.1</title>
+      <link>http://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.0.1/</link>
+      <pubDate>Sat, 15 Feb 2014 13:10:00 +0200</pubDate>
+      
+      <guid>http://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.0.1/</guid>
+      <description>
+
+&lt;p&gt;Today i tagged and released version &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.0.1&#34;&gt;v0.0.1&lt;/a&gt; of the project &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics&#34;&gt;TYPO3-Analytics&lt;/a&gt;.
+After &lt;a href=&#34;http://www.timeanddate.com/date/durationresult.html?d1=19&amp;amp;m1=4&amp;amp;y1=2013&amp;amp;d2=15&amp;amp;m2=2&amp;amp;y2=2014&amp;amp;ti=on&#34;&gt;303 days&lt;/a&gt; and &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/commits/v0.0.1&#34;&gt;144 commits&lt;/a&gt; later, i decided to make a &amp;ldquo;cut&amp;rdquo; and start a new version.&lt;/p&gt;
+
+&lt;p&gt;This version is a first (workable as far as i know) &amp;ldquo;proof of concept&amp;rdquo; for a repository mining platform to produce (community) metrics of various systems.
+The first example system is &lt;a href=&#34;http://typo3.org/&#34;&gt;TYPO3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;what-does-this-version-include&#34;&gt;What does this version include?&lt;/h1&gt;
+
+&lt;p&gt;13 &lt;a href=&#34;http://www.rabbitmq.com/&#34;&gt;RabbitMQ&lt;/a&gt; consumer written in PHP:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Download a git resource&lt;/li&gt;
+&lt;li&gt;Download a http resource&lt;/li&gt;
+&lt;li&gt;Extract a tar.gz archive&lt;/li&gt;
+&lt;li&gt;Crawl a Gerrit server&lt;/li&gt;
+&lt;li&gt;Crawl a single Gerrit project&lt;/li&gt;
+&lt;li&gt;Crawl a Gitweb site&lt;/li&gt;
+&lt;li&gt;Crawl a NNTP server&lt;/li&gt;
+&lt;li&gt;Crawl a single NNTP group&lt;/li&gt;
+&lt;li&gt;Analyze the filesize of a file&lt;/li&gt;
+&lt;li&gt;Analyze a VCS repository via CVSAnaly&lt;/li&gt;
+&lt;li&gt;Analyze PHP source code via PHPLoc&lt;/li&gt;
+&lt;li&gt;Analyze PHP source code via pDepend&lt;/li&gt;
+&lt;li&gt;Analyze used programming languages via github linguist&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;4 RabbitMQ producer written in PHP:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Messages to crawl a Gerrit code review system&lt;/li&gt;
+&lt;li&gt;Messages to download TYPO3 releases from get.typo3.org&lt;/li&gt;
+&lt;li&gt;Messages to crawl a Gitweb site&lt;/li&gt;
+&lt;li&gt;Messages to crawl a NNTP server&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This release can be downloaded from github: &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.0.1&#34;&gt;v0.0.1: Release of version 0.0.1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;what-will-be-tackled-in-the-next-version&#34;&gt;What will be tackled in the next version?&lt;/h1&gt;
+
+&lt;p&gt;There is no concrete roadmap for the next version(s).
+And i do not know which version number will it be.
+Maybe a new minor, maybe a new major version.
+The next version of TYPO3-Analytics will focus on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;code quality&lt;/li&gt;
+&lt;li&gt;testing&lt;/li&gt;
+&lt;li&gt;stability&lt;/li&gt;
+&lt;li&gt;flexibility&lt;/li&gt;
+&lt;li&gt;documentation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This mean that i try to refactor some code, create unit and / or integration tests, try to tackle some bugs and &amp;ldquo;unused&amp;rdquo; concepts to make a better use of existing functionality (e.g. &lt;a href=&#34;http://www.rabbitmq.com/dlx.html&#34;&gt;RabbitMQ Dead Lettering&lt;/a&gt;) and to add more parameter to messages to decouple the exiting consumer from the proof of concept TYPO3.&lt;/p&gt;
+
+&lt;p&gt;Further more i want to write more documentation and some blog posts about the architecture and concept of this project. I got the hope to find more contributer or to find more people which are interested in it. Maybe it will help. We will see.&lt;/p&gt;
+
+&lt;p&gt;If you want to contribute and you do not know how, just contact me via Twitter (&lt;a href=&#34;https://twitter.com/andygrunwald&#34;&gt;@andygrunwald&lt;/a&gt;) or by e-mail (&lt;a href=&#34;https://github.com/andygrunwald&#34;&gt;github profile&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
