@@ -4,7 +4,7 @@
 # Basic script to publish the content of the static site generator to github.
 # The generated content will be our github pages.
 #
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo -e "\033[0;32mDeploying updates to GitHub ...\033[0m"
 
 # Cleanup
 rm -rf public || exit 0;
@@ -32,4 +32,4 @@ if [ $? -ne 0 ]; then echo "Could not publish latest state to master"; exit 1; f
 git subtree push --prefix=public git@github.com:andygrunwald/andygrunwald.github.io.git gh-pages
 if [ $? -ne 0 ]; then echo "Could not publish generated state to gh-pages branch"; exit 1; fi
 
-echo -e "\033[0;32mDone\033[0m"
+echo -e "\033[0;32mDeploying updates to GitHub ... Done\033[0m"
