@@ -88,7 +88,7 @@ After some time we were getting more known in the city.
 Now, after nearly 4 years, 45 up to 80 people show up every month.
 
 Take your time.
-**To build a well visites meetup you need time and stamina.**
+**To build a well visited meetup, you need time and stamina.**
 
 ## Don't do it alone
 
@@ -140,7 +140,7 @@ If you plan to have a speaker + presentation, the pub at the next corner might b
 **Most of the tech meetup I know are in office locations of a tech company.**
 
 **A small or big conference room is a perfect start, because they are equipped well with a table, chairs and a beamer.**
-If your grow and your need more place, have a look at local co working spaces.
+If you grow and your need more space, have a look at local co working spaces.
 A lot of them are willing to sponsor you a location / their main hall for your meetup.
 
 ![Prepared room of the July 2016 meetup](/img/posts/lesson-learned-from-running-a-meetup/meetup-july-2016-room.jpeg)
@@ -151,7 +151,7 @@ After ~1 year at trivago, the conference room was getting crowded.
 Luckily trivago offers a big kitchen with everything we need (beamer, audio, chairs, fridge, etc.) for ~200 people.
 Other companies in our area doing exactly this as well (like [sipgate](http://www.sipgate.de/)). 
 
-**Pro tip**: If you found a location, don't forget to mark the way to the meetup with paper signs. Not everyone knows who the company is located or where they can find the correct room.
+**Pro tip**: If you found a location, don't forget to mark the way to the meetup with paper signs. Not everyone knows, where the company is located or where they can find the correct room.
 
 **Pro tip 2**: If you are looking for a meetup location in Düsseldorf (Germany), Leipzig (Germany), Amsterdam (Netherlands) or Palma de Mallorca (Spain) get in contact with me.
 
@@ -162,16 +162,16 @@ For this video recording is perfect.
 Some meetups offer this.
 
 At [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) we don't record the talks.
-We tried it, but we are (right now) not able put the effort into the video editing to reach the quality we want.
-You need to record the speaker, the audio and the speakers screen for the slides, cut all together, keep it in sync and upload it to a portal like YouTube or Vimeo.
+We tried it, but we are (right now) not able to put the effort into the video editing to reach the quality we want.
+You need to record the speaker, the audio and the speaker's screen to catch the slides, cut all together, keep it in sync and upload it to a portal like YouTube or Vimeo.
 **Do not underestimate the necessary effort to record your meetups in a high quality.**
 People will not have fun to watch a video with low quality.
 
 Audio is a different topic.
 **Depending on the size of your room it might be suitable to offer a proper audio setup with microphones.**
-If you a running your meetup in a small conference room with ~15 people you oft don't need this.
+If you a running your meetup in a small conference room with ~15 people you often don't need this.
 But if you use a bigger room with >30 people, think about it.
-The benefits are clear: The speaker don't have to shout and the people will understand the words of the speaker even better.
+The benefits are clear: The speakers don't have to shout and the people will understand the words of the speaker even better.
 
 ## Date of the meetup
 
@@ -180,7 +180,7 @@ This is a difficult topic.
 The best days are Tuesday, Wednesday or Thursday.
 On the weekends you have your private life, friends and familiy.
 On Monday there is so much to do at work that most people are not motivated to attend a meetup.
-On Friday many people will or want to leave early in the weekend.
+On Friday many people will or want to leave early into the weekend.
 
 On these days most of the meetups run in a plannable interval like *every first Tuesday in a month* or *the last Thursday in a month*.
 This is fine and has a lot of advantages like planning of dates, reservations of the location and you are able to avoid collisions with other meetups in your near area (if they choose a different interval than you).
@@ -190,14 +190,14 @@ At [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/
 But we don't have a specific Thursday (like every second in a month).
 We specify our date according the availibility of the speaker.
 **We ask the speaker when they have time and at what Thursday we will fit into their schedule.**
-With this way it is easier to get speaker and they are not fixed to a specific pattern.
+With this way it is easier to get speakers and they are not fixed to a specific pattern.
 
 But this way has disadvantages, too.
 If you don't own your meetup location, this pattern is hardly doable.
 Not every location is available at every Thursday.
 So planning ahead is a must.
 Collisions with other meetups in your local area will happen.
-But those will happen anyway (even with the pattern interval described above), when the overall meetup community in your area grow.
+But those will happen anyway (even with the pattern interval described above), when the overall meetup community in your area grows.
 In bigger cities like Berlin, Hamburg or San Francisco this is already the situation.
 There are meetups every day.
 In Düsseldorf this is coming right now, but we talked to a few meetup organizers and everyone is ok with this (we are friends and support each other).
@@ -301,14 +301,14 @@ Explain a few organisational things, so that the people don't need to ask.
 Content that should be part of the welcome presentation:
 
 * Name of the meetup
-* Wlan access
-* Office / Location rules (what is allowed, what not?)
+* WiFi access
+* Office / location rules (what is allowed, what not?)
 * Where are the toilets
 * Announcements of other appointments like
 	* other meetups in the area
 	* conferences / hackathons near by
 	* your next meetup
-* Speaker and Topic today
+* Speaker and topic of today
 * If you offer a socialising after the talk or if the meetup ends directly
 
 After this you can hand over to the speaker, the talk will start and you will relax.
