@@ -1,0 +1,29 @@
+{{ partial "head.html" . }}
+<body>
+{{ partial "nav.html" . }}
+<div class="content">
+	{{ if and (isset .Params "featureimage") (not (eq .Params.featureimage "")) }}
+	<article class="feature-image">
+		<header style="background-image: url('{{ .Site.BaseURL }}{{ .Params.featureimage }}')">
+			{{ if and (isset .Params "titleshadow") }}
+			<h1 class="title title-shadow">{{ .Title }}</h1>
+			{{ else }}
+			<h1 class="title">{{ .Title }}</h1>
+			{{ end }}
+		</header>
+		{{ else }}
+		<article>
+			<header>
+				<h1 class="title">{{ .Title }}</h1>
+			</header>
+			{{ end }}
+
+			<section class="post-content">
+				{{ .Content }}
+			</section>
+		</article>
+
+		{{ partial "footer.html" . }}
+</div>
+</body>
+</html>

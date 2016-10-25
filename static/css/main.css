@@ -6,3 +6,14 @@
 
 /* see #6 */
 .highlighttable td,th{padding:0;border:0;}td.code{width:95%;}
+
+/* Lists in lists */
+ul li ul {
+    padding-left: 2em;
+    margin-top: 1em;
+}
+
+/* Shadow for titles if we have a white feature image */
+.title-shadow {
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
+}
