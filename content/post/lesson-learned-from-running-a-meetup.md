@@ -364,7 +364,7 @@ For german meetups this is not common.
 I often see this in US meetups.
 Both is completely fine.
 
-At [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) we try to keep money at as much as possible.
+At [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) we try to keep money out at as much as possible.
 We are a community based meetup that is organized out of people who love what they do.
 The only driver is passion and motivation to learn more.
 I personally think that money will make everything more complicated (this is only my opinion).
