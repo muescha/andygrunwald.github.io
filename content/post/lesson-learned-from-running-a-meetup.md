@@ -9,18 +9,18 @@ tags = ["meetup", "usergroup", "experience", "lesson learned"]
 title = "Lesson learned from running a local meetup"
 +++
 
-I organize the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) for round about four years.
-A monthly meetup with focus on web engineering and new trends out of this area.
-I do this with a friend, 100% non-profit and motivated by our passion for open source, learning, meet motivated people and fun.
+I organize the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) for around about four years now.
+A monthly meetup focused on web engineering and new trends in this area.
+I do this with a friend, 100% non-profit and motivated by our passion for open source, learning, meeting motivated people, and fun.
 
-In the last time many people asked me about my experience about this, if i have some tips or what is important to start a new meetup ([and i asked for it](https://twitter.com/andygrunwald/status/756192181677875200)).
-In this post i summarize those and provide tips, tricks and my lesson learned.
+In the last time many people asked me about my experience, if I can share some tips or what is important when starting a new meetup ([and I asked for it](https://twitter.com/andygrunwald/status/756192181677875200)).
+In this post I summarize all of that and provide tips, tricks and my lessons learned.
 
 <!--more-->
 
 ## New meetup or existing one?
 
-If you consider to start a new meetup in your area about a topic you love, please do a little bit research in advance.
+If you consider to start a new meetup in your area about a topic you love, please do a little bit of research in advance.
 Often there is already a meetup in an acceptable distance to your location about the same topic.
 [Meetup.com](https://www.meetup.com/) is a perfect platform to search for meetups in your location.
 
@@ -29,17 +29,17 @@ The reason is simple: **Most meetups won't survive**.
 If you own a profile on [Meetup.com](https://www.meetup.com/) you will get emails if new meetups from your area will be founded.
 I get those mails every week.
 
-It often goes the same way.
+The story is often the same.
 They register and start a meetup.
 They add a first meetup date without a location and a topic (everything marked as TBD).
-First people joining the group.
+The first people join the group.
 If you are lucky the first meetup takes place, but often this is also the last one.
 If you are unlucky the first meetup will be canceled due to no location or topic.
 A new meetup cadaver was created (sorry to be so harsh, but this is often the truth).
 
 Many people want to start *their own meetup*.
-If you found a meetup for your topic in your area, i suggest to visit it a few times and start to being an active member there.
-You can contribute in many ways, e.g. to hold a talk, spread the word, organize goodies or get in contact with the organizers and ask how to help.
+If you found a meetup for your topic in your area, I suggest to visit it a few times and start to become an active member there.
+You can contribute in many ways, e.g. give a talk, spread the word, organize goodies or get in contact with the organizers and ask how to help.
 Often this adds more value than starting a new one with the same topic.
 
 If there is no meetup like yours and you want to start a new one, take some time to think about it and if you have the time to run it.
@@ -47,12 +47,12 @@ If there is no meetup like yours and you want to start a new one, take some time
 
 ## Choose a meetup name wisely
 
-Many technology related meetups are named according a tool, framework or programing language. Examples are [Symfony User Group Cologne](https://www.meetup.com/sfugcgn/), [Berlin Mesos User Group](https://www.meetup.com/Berlin-Mesos-User-Group/) or even the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/).
+Many technology related meetups are named after a tool, framework or programing language. Examples are [Symfony User Group Cologne](https://www.meetup.com/sfugcgn/), [Berlin Mesos User Group](https://www.meetup.com/Berlin-Mesos-User-Group/) or even the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/).
 
 In my opinion this is not the best choice in the long run.
 If you start with this name you will have topics for the first 6 up to 9 meetups.
 After some time you will run out of speakers or topics dedicated to this topic.
-In most languages, framework or tools, the changerate is not so high to hold talks dedicated to those for a long time.
+In most languages, framework or tools, the changerate is not high enough to hold talks dedicated to those for a long time.
 In those cases you will start to use talks or topics that are connected to your meetup name.
 And this is fine as well, but might lead to confusion.
 
@@ -60,22 +60,22 @@ We ([PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf
 Further more: New people, who don't like PHP as a language, don't join meetups in the firts glance, because they think every talk is PHP related.
 For our meetups this is not true (but how should they know?).
 
-We run meetups with talks about JavaScript, CSS projects, NoSQL databases, agile projectmanagement and topics that will be touched in web development.
+We run meetups with talks about JavaScript, CSS projects, NoSQL databases, Agile project management and topics that will be touched in web development.
 We struggled some time with the question if we should rename our meetup.
-We were affraid to lose our marketing (twitter, mouth to mouth).
+We were afraid to lose our marketing (twitter, word of mouth).
 But now we decided to rename the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) to Web Engineering Meetup Düsseldorf.
 
 ## Do it every month
 
 If you start a meetup, not many people will know it.
-This leads to quite less people at your first events (especially in non tech areas, i don't talk about Berlin, Hamburg, San Francisco, ...).
-This is sad and you will feel sad.
-But you don't have to be sad.
+This leads to a small number of people at your first events (especially in non tech areas, I don't talk about Berlin, Hamburg, San Francisco, ...).
+This is sad and you will feel disappointed.
+But you don't have to be disappointed.
 This is normal.
 
 If you run a good meetup people will come.
 People will know your meetup after some time.
-Mouth to mouth marketing needs time.
+Word of mouth marketing needs time.
 **If you run your meetup regularly (like every month), people will appreciate it.**
 This helps to stabilize the number of people per meetup.
 
@@ -97,14 +97,14 @@ Before you need to reserve a location, organize a speaker, check and order drink
 On the event day you need to mark the way to the location, create a small welcome presentation and prepare the room.
 After the crowd is gone you need (mostly) clean the things up.
 
-You can do this alone, but i recommend: **Don't underestimate the effort to organize a meetup.**
+You can do this alone, but I recommend: **Don't underestimate the effort to organize a meetup.**
 
 When the meetup is getting bigger and bigger the preparation is more stressful. Or sometimes you are not able to be on the meetup itself (due to private reasons).
 In this time one or two friends who help to organize this event can take over.
 
-In the past i did it alone.
+In the past I did it alone.
 I know how much work it is and how stressful it can be.
-After i asked two friends a meetup day is much more calm down.
+After I asked two friends a meetup day is much more calm down.
 Everyone can take over one or two tasks.
 In this case: We scale our preparation over people.
 
@@ -112,7 +112,7 @@ In this case: We scale our preparation over people.
 
 People need to know when and where your next event takes place.
 **A good platform can save you a lot of work here.**
-Personally i prefer [Meetup.com](https://www.meetup.com/).
+Personally I prefer [Meetup.com](https://www.meetup.com/).
 And many other meetups do as well.
 
 You set up a new event at [Meetup.com](https://www.meetup.com/) and they will send out emails, reminders, iCal entries, provide a comment section, a place for your sponsors, configure a payment for your event and much much more.
@@ -137,7 +137,7 @@ Our userbase grew and we (the organizers) had less work to do, because XING is l
 
 A good / usable location is important for the meetup and the location depends on the meetup content.
 If you plan to have a speaker + presentation, the pub at the next corner might be the wrong place.
-**Most of the tech meetup i know are in office locations of a tech company.**
+**Most of the tech meetup I know are in office locations of a tech company.**
 
 **A small or big conference room is a perfect start, because they are equipped well with a table, chairs and a beamer.**
 If your grow and your need more place, have a look at local co working spaces.
@@ -185,7 +185,7 @@ On Friday many people will or want to leave early in the weekend.
 On these days most of the meetups run in a plannable interval like *every first Tuesday in a month* or *the last Thursday in a month*.
 This is fine and has a lot of advantages like planning of dates, reservations of the location and you are able to avoid collisions with other meetups in your near area (if they choose a different interval than you).
 
-**But i prefer a different pattern: Be flexible with your date.**
+**But I prefer a different pattern: Be flexible with your date.**
 At [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) we prefer the Thursday to hold our meetup.
 But we don't have a specific Thursday (like every second in a month).
 We specify our date according the availibility of the speaker.
@@ -219,7 +219,7 @@ They need time to answer and to plan.
 And maybe you need to send multiple emails back and fourth until you are able to confirm and setup the meetup.
 
 Most of the meetups run one talk per evening for a length about ~45 minutes.
-In the last year i started to play around with this concept a little bit at [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/).
+In the last year I started to play around with this concept a little bit at [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/).
 On some evenings we run three talks each 20 minutes long.
 On some evenings two talks with 30 minutes each.
 And this works quite well.
@@ -228,8 +228,8 @@ Even bigger conferences adapting this pattern more and more.
 
 ![Matthias Endler on the April 2016 meetup](/img/posts/lesson-learned-from-running-a-meetup/meetup-april-2016-matthias-endler.jpeg)
 
-During a meetup i talk to a lot of people about public speaking.
-I tell them that i provide a stage at this meetup where you can test things out.
+During a meetup I talk to a lot of people about public speaking.
+I tell them that I provide a stage at this meetup where you can test things out.
 **Try to motivate people from your community and local meetup to get on stage for the first time.**
 A meetup is the perfect place for this, because it is a small location with a small amount of people.
 To get on stage and talk about a topic the first time is an overhelming experience.
@@ -239,7 +239,7 @@ Most of the tech people have the problem that they think their knowledge is well
 Or they are exited about a topic, they dive in and get known to it and after they know how it works, they are bored.
 They think that everyone knows about this, because they know it.
 I have this problem, too.
-But i know that this is a lie.
+But I know that this is a lie.
 Everyone knows something that is interesting for others.
 **You don't need to talk about the newest hipster technologies out there.
 Most of the people are interested in real life challenges from your day to day work.
@@ -283,7 +283,7 @@ Just drop a request to the company, explain what you do, how many people are joi
 I recommend to run a few meetups before you ask to provde that you are stable.
 This helps to get a positive answer.
 
-Here are a few companies i know that offer meetup sponsoring:
+Here are a few companies I know that offer meetup sponsoring:
 
 * [GitHub](https://community.github.com/)
 * [JetBrains](https://www.jetbrains.com/support/community/#section=communities)
@@ -343,14 +343,14 @@ Not everyone has the same level of knowledge.
 Otherwise they would not join your meetup in their spare time.**
 
 You might ask yourself: *Why does he mention this?*
-Because i met people at a meetup they said something like *Next time i won't join. This talk was fucking boring and the speaker was shit. And i hate this topic anyway.*
+Because I met people at a meetup they said something like *Next time I won't join. This talk was fucking boring and the speaker was shit. And i hate this topic anyway.*
 I immediately left the conversation.
 In my opinion there was someone who put effort in preparation and leaving his / her comfort zone to tell the audience about a topic.
 And you need to appreciate it, because this is not easy and is not done in 5 minutes.
 
-After i talk i spent a few minutes with the speaker, say thank you for his / her time and effort and provide feedback. What was good? What can be improved?
-Sometimes i ask the speaker if he / she is interested in speaking at a conference or at other meetups.
-Then i forward the talk to some organizers around.
+After I talk I spend a few minutes with the speaker, say thank you for his / her time and effort and provide feedback. What was good? What can be improved?
+Sometimes I ask the speaker if he / she is interested in speaking at a conference or at other meetups.
+Then I forward the talk to some organizers around.
 
 Please take this (and much more around this topic) into your mind.
 ONe way is to setup a [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_conduct).
@@ -378,7 +378,7 @@ Sponsoring like food, drinks, locations, goodies, etc. is a different thing.
 I am sure that this is not the complete list of things you need to think about when you start and run a meetup.
 But this are the most common things.
 
-Once more points come into my mind i will update this post (or start a new one if i got many new points).
+Once more points come into my mind I will update this post (or start a new one if I got many new points).
 
 **Let me know if these points were helpful for you or if you share the same or a different opinion.**
 
@@ -398,7 +398,7 @@ Start getting involved in a meetup.
 As a visitor or an organizer.
 You will see it is a great experience.
 
-*Side story*: We had an attendee who came from Egypt and was on a business trip in Germany. He visited our meetup and on this date we offered a introduction into [Git with a small hands on session](https://www.meetup.com/de-DE/PHP-Usergroup-Duesseldorf/events/219616098/). He had a lot of fun. After some weeks i recieved an email from him. He told me that he went back to Cairo, Egypt and started his own meetup to teach people about Git. He said that his first event was a great success. Those stories keeps us motivated.
+*Side story*: We had an attendee who came from Egypt and was on a business trip in Germany. He visited our meetup and on this date we offered a introduction into [Git with a small hands on session](https://www.meetup.com/de-DE/PHP-Usergroup-Duesseldorf/events/219616098/). He had a lot of fun. After some weeks I recieved an email from him. He told me that he went back to Cairo, Egypt and started his own meetup to teach people about Git. He said that his first event was a great success. Those stories keeps us motivated.
 
 ## More to read
 
