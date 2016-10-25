@@ -1,6 +1,6 @@
 +++
 categories = ["meetups", "lesson learned"]
-date = "2016-09-21T21:11:00+02:00"
+date = "2016-10-25T12:15:00+02:00"
 draft = false
 featureimage = ""
 menu = ""
@@ -401,3 +401,7 @@ If you still want to read more about this topic have a look at [Running a Go Mee
 
 If you run a meetup or visit meetups on a regular bases, feel free to share your lesson learned in the comments.
 I would  love to read them.
+
+## Typo?
+
+Found a bug in this article? Feel free to apply a pull request at [*Lesson learned from running a local meetup*](https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/post/lesson-learned-from-running-a-meetup.md) at github.
