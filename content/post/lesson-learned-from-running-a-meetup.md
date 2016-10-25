@@ -20,7 +20,7 @@ In this post I summarize all of that and provide tips, tricks and my lessons lea
 
 ## New meetup or existing one?
 
-If you're considering to start a new meetup in your area about a topic you love, please do a little bit of research in advance.
+If you're considering starting a new meetup in your area about a topic you love, please do a little bit of research in advance.
 Often there is already a meetup in an acceptable distance to your location about the same topic.
 [Meetup.com](https://www.meetup.com/) is a perfect platform to search for meetups in your location.
 
