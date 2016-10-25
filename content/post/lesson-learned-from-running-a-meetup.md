@@ -24,7 +24,7 @@ Often there is already a meetup in an acceptable distance to your location about
 [Meetup.com](https://www.meetup.com/) is a perfect platform to search for meetups in your location.
 
 But why should you do this?
-The reason is simple: **Most meetups won`t survive**.
+The reason is simple: **Most meetups won't survive**.
 If you own a profile on [Meetup.com](https://www.meetup.com/) you will get emails if new meetups from your area will be founded.
 I get those mails every week.
 
@@ -56,7 +56,7 @@ In those cases you will start to use talks or topics that are connected to your 
 And this is fine as well, but might lead to confusion.
 
 We ([PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/)) made exactly this experience.
-Further more: New people, who don`t like PHP as a language, don't join meetups in the firts glance, because they think every talk is PHP related.
+Further more: New people, who don't like PHP as a language, don't join meetups in the firts glance, because they think every talk is PHP related.
 For our meetups this is not true (but how should they know?).
 
 We run meetups with talks about JavaScript, CSS projects, NoSQL databases, agile projectmanagement and topics that will be touched in web development.
@@ -64,14 +64,14 @@ We struggled some time with the question if we should rename our meetup.
 We were affraid to lose our marketing (twitter, mouth to mouth).
 But now we decided to rename the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) to Web Engineering Meetup Düsseldorf.
 
-## Don`t do it alone
+## Don't do it alone
 
 To organize and run a meetup you need a time before and on the event day.
 Before you need to reserve a location, organize a speaker, check and order drinks, food and equipment.
 On the event day you need to mark the way to the location, create a small welcome presentation and prepare the room.
 After the crowd is gone you need (mostly) clean the things up.
 
-You can do this alone, but i recommend: **Don`t underestimate the effort to organize a meetup.**
+You can do this alone, but i recommend: **Don't underestimate the effort to organize a meetup.**
 
 When the meetup is getting bigger and bigger the preparation is more stressful. Or sometimes you are not able to be on the meetup itself (due to private reasons).
 In this time one or two friends who help to organize this event can take over.
@@ -87,7 +87,7 @@ In this case: We scale our preparation over people.
 If you start a meetup, not many people will know it.
 This leads to quite less people at your first events (especially in non tech areas, i don't talk about Berlin, Hamburg, San Francisco, ...).
 This is sad and you will feel sad.
-But you don`t have to be sad.
+But you don't have to be sad.
 This is normal.
 
 If you run a good meetup people will come.
@@ -164,7 +164,7 @@ People will not have fun to watch a video with low quality.
 
 Audio is a different topic.
 **Depending on the size of your room it might be suitable to offer a proper audio setup with microphones.**
-If you a running your meetup in a small conference room with ~15 people you oft don`t need this.
+If you a running your meetup in a small conference room with ~15 people you oft don't need this.
 But if you use a bigger room with >30 people, think about it.
 The benefits are clear: The speaker don't have to shout and the people will understand the words of the speaker even better.
 
@@ -216,7 +216,7 @@ This is fine and has a lot of advantages like planning of dates, reservations of
 
 **But i prefer a different pattern: Be flexible with your date.**
 At [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) we prefer the Thursday to hold our meetup.
-But we don`t have a specific Thursday (like every second in a month).
+But we don't have a specific Thursday (like every second in a month).
 We specify our date according the availibility of the speaker.
 **We ask the speaker when they have time and at what Thursday we will fit into their schedule.**
 With this way it is easier to get speaker and they are not fixed to a specific pattern.
@@ -318,7 +318,7 @@ After the talk or presentation many people will leave the location.
 But some people stay to socialise even more.
 They start chatting with the speaker or about the content of the presentation.
 **Be aware: Sometimes it can get late.**
-Some people are chatting and chatting and (nearly) don`t want to leave.
+Some people are chatting and chatting and (nearly) don't want to leave.
 If you need to get up early next day, set a fixed end time for your meetup.
 
 **A positive side effect of socialising**: Your network will grow with more and more meetups.
