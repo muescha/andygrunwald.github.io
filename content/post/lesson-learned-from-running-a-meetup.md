@@ -127,9 +127,9 @@ Be aware, not everyone is a fan of twitter or use it at all.
 This means they would miss your announcements.
 Email is still the best way of communication for the most people.
 
-The PHP Usergroup DUS started with [XING](https://www.xing.com/) as platform (a kind of german [LinkedIn](https://www.linkedin.com/)).
+The PHP Usergroup DUS started with [XING](https://www.xing.com/) as platform (a kind of German [LinkedIn](https://www.linkedin.com/)).
 It worked quite well for ~1 1/2 years.
-But we mostly attracted german people, because XING is a german network.
+But we mostly attracted German people, because XING is a German network.
 After a switch to Meetup more and more international people joined our group.
 Our userbase grew and we (the organizers) had less work to do, because XING is lacking a lot of useful features.
 
@@ -360,7 +360,7 @@ ONe way is to setup a [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_co
 Some meetups are backed by money and they are able to pay speaker.
 With this they are able to hire bigger speakers, pay them a fee, accommodation costs and attract more people.
 Some meetups charge money for the entrance.
-For german meetups this is not common.
+For German meetups this is not common.
 I often see this in US meetups.
 Both is completely fine.
 
