@@ -9,7 +9,7 @@ tags = ["meetup", "usergroup", "experience", "lesson learned"]
 title = "Lesson learned from running a local meetup"
 +++
 
-I organize the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) for around about four years now.
+I organize the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) for about four years now.
 A monthly meetup focused on web engineering and new trends in this area.
 I do this with a friend, 100% non-profit and motivated by our passion for open source, learning, meeting motivated people, and fun.
 
@@ -406,9 +406,9 @@ If you still want to read more about this topic have a look at [Running a Go Mee
 
 ## You run a meetup?
 
-If you run a meetup or visit meetups on a regular bases, feel free to share your lesson learned in the comments.
+If you run a meetup or visit meetups on a regular basis, feel free to share your lesson learned in the comments.
 I would  love to read them.
 
 ## Typo?
 
-Found a bug in this article? Feel free to apply a pull request at [*Lesson learned from running a local meetup*](https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/post/lesson-learned-from-running-a-meetup.md) at github.
+Found a bug in this article? Feel free to create a pull request at [*Lesson learned from running a local meetup*](https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/post/lesson-learned-from-running-a-meetup.md) at github.
