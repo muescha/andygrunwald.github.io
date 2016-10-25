@@ -2,7 +2,8 @@
 categories = ["meetups", "lesson learned"]
 date = "2016-10-25T12:15:00+02:00"
 draft = false
-featureimage = ""
+featureimage = "img/posts/lesson-learned-from-running-a-meetup/meetup-october-2013-tobias-schlitt.jpeg"
+titleshadow = true
 menu = ""
 tags = ["meetup", "usergroup", "experience", "lesson learned"]
 title = "Lesson learned from running a local meetup"
@@ -10,7 +11,7 @@ title = "Lesson learned from running a local meetup"
 
 I organize the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) for round about four years.
 A monthly meetup with focus on web engineering and new trends out of this area.
-I do this with a friend, 100% non-profit and motivated by my passion for open source, learning, meet motivated people and fun.
+I do this with a friend, 100% non-profit and motivated by our passion for open source, learning, meet motivated people and fun.
 
 In the last time many people asked me about my experience about this, if i have some tips or what is important to start a new meetup ([and i asked for it](https://twitter.com/andygrunwald/status/756192181677875200)).
 In this post i summarize those and provide tips, tricks and my lesson learned.
@@ -64,6 +65,31 @@ We struggled some time with the question if we should rename our meetup.
 We were affraid to lose our marketing (twitter, mouth to mouth).
 But now we decided to rename the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) to Web Engineering Meetup Düsseldorf.
 
+## Do it every month
+
+If you start a meetup, not many people will know it.
+This leads to quite less people at your first events (especially in non tech areas, i don't talk about Berlin, Hamburg, San Francisco, ...).
+This is sad and you will feel sad.
+But you don't have to be sad.
+This is normal.
+
+If you run a good meetup people will come.
+People will know your meetup after some time.
+Mouth to mouth marketing needs time.
+**If you run your meetup regularly (like every month), people will appreciate it.**
+This helps to stabilize the number of people per meetup.
+
+![Prepared room of the July 2016 meetup](/img/posts/lesson-learned-from-running-a-meetup/meetup-july-2016-people.jpeg)
+
+In the first year of the PHP Usergroup DUS, 4 up to 8 people showed up for the meetup.
+It was great.
+We were a small group and everyone knows everyone.
+After some time we were getting more known in the city.
+Now, after nearly 4 years, 45 up to 80 people show up every month.
+
+Take your time.
+**To build a well visites meetup you need time and stamina.**
+
 ## Don't do it alone
 
 To organize and run a meetup you need a time before and on the event day.
@@ -81,29 +107,6 @@ I know how much work it is and how stressful it can be.
 After i asked two friends a meetup day is much more calm down.
 Everyone can take over one or two tasks.
 In this case: We scale our preparation over people.
-
-## Do it every month
-
-If you start a meetup, not many people will know it.
-This leads to quite less people at your first events (especially in non tech areas, i don't talk about Berlin, Hamburg, San Francisco, ...).
-This is sad and you will feel sad.
-But you don't have to be sad.
-This is normal.
-
-If you run a good meetup people will come.
-People will know your meetup after some time.
-Mouth to mouth marketing needs time.
-**If you run your meetup regularly (like every month), people will appreciate it.**
-This helps to stabilize the number of people per meetup.
-
-In the first year of the PHP Usergroup DUS, 4 up to 8 people showed up for the meetup.
-It was great.
-We were a small group and everyone knows everyone.
-After some time we were getting more known in the city.
-Now, after nearly 4 years, 45 up to 80 people show up every month.
-
-Take your time.
-**To build a well visites meetup you need time and stamina.**
 
 ## Choose the right platform for announcements
 
@@ -140,6 +143,8 @@ If you plan to have a speaker + presentation, the pub at the next corner might b
 If your grow and your need more place, have a look at local co working spaces.
 A lot of them are willing to sponsor you a location / their main hall for your meetup.
 
+![Prepared room of the July 2016 meetup](/img/posts/lesson-learned-from-running-a-meetup/meetup-july-2016-room.jpeg)
+
 With the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) we started in a conference room from [TWT](https://www.twt.de/) (a web agency from Düsseldorf).
 After some time we moved to the conference rooms of [trivago](http://www.trivago.com/), because the organizers switched their work place.
 After ~1 year at trivago, the conference room was getting crowded.
@@ -167,40 +172,6 @@ Audio is a different topic.
 If you a running your meetup in a small conference room with ~15 people you oft don't need this.
 But if you use a bigger room with >30 people, think about it.
 The benefits are clear: The speaker don't have to shout and the people will understand the words of the speaker even better.
-
-## Drinks and food
-
-Most of the meetups offer drinks and / or food.
-This is great, because many attendees are joining you directly after their full time job without a stop by at home.
-They are hungry and thirsty.
-This is a good start for a good evening and chatting with a beer or a coke is much easier ;)
-
-Like the location ask well known companies in your area to sponsor this.
-If you run a PHP meetup, ask a web agency, etc.
-Depending on the amount of people and what you order per meetup it costs ~100 up to ~250 €.
-A few pizzas, salads, beer and non alcoholic drinks are enough.
-This is not a must, but makes it easier.
-
-At the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) we provide drinks and a few sandwiches.
-They are available for the employees already.
-So we were lucky and trivago is able to sponsor everything for us.
-
-## Sponsoring and goodies
-
-If your meetup has a decent amount of people (> 30 people) joining you every month, **many companies are willing to deliver you goodies.**
-**Those goodies can be a nice addition for the attendees.**
-
-It only requires a few emails from your side.
-Just drop a request to the company, explain what you do, how many people are joining and what are common topics for your meetup.
-I recommend to run a few meetups before you ask to provde that you are stable.
-This helps to get a positive answer.
-
-Here are a few companies i know that offer meetup sponsoring:
-
-* [GitHub](https://community.github.com/)
-* [JetBrains](https://www.jetbrains.com/support/community/#section=communities)
-* [t3n](http://t3n.de/) (German digital magazine)
-* [DigitalOcean](https://www.digitalocean.com/)
 
 ## Date of the meetup
 
@@ -255,6 +226,8 @@ And this works quite well.
 It is easier to find multiple speakers who are able to speak for a shorter time frame about a topic instead of one speaker that talks for 45 minutes.
 Even bigger conferences adapting this pattern more and more.
 
+![Matthias Endler on the April 2016 meetup](/img/posts/lesson-learned-from-running-a-meetup/meetup-april-2016-matthias-endler.jpeg)
+
 During a meetup i talk to a lot of people about public speaking.
 I tell them that i provide a stage at this meetup where you can test things out.
 **Try to motivate people from your community and local meetup to get on stage for the first time.**
@@ -282,6 +255,40 @@ You will be suprised how many people will join to learn something new for free.
 Start with a [Git](https://git-scm.com/) workshop and try it out.
 
 **Play around with the concept and content of the meetup.**
+
+## Drinks and food
+
+Most of the meetups offer drinks and / or food.
+This is great, because many attendees are joining you directly after their full time job without a stop by at home.
+They are hungry and thirsty.
+This is a good start for a good evening and chatting with a beer or a coke is much easier ;)
+
+Like the location ask well known companies in your area to sponsor this.
+If you run a PHP meetup, ask a web agency, etc.
+Depending on the amount of people and what you order per meetup it costs ~100 up to ~250 €.
+A few pizzas, salads, beer and non alcoholic drinks are enough.
+This is not a must, but makes it easier.
+
+At the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) we provide drinks and a few sandwiches.
+They are available for the employees already.
+So we were lucky and trivago is able to sponsor everything for us.
+
+## Sponsoring and goodies
+
+If your meetup has a decent amount of people (> 30 people) joining you every month, **many companies are willing to deliver you goodies.**
+**Those goodies can be a nice addition for the attendees.**
+
+It only requires a few emails from your side.
+Just drop a request to the company, explain what you do, how many people are joining and what are common topics for your meetup.
+I recommend to run a few meetups before you ask to provde that you are stable.
+This helps to get a positive answer.
+
+Here are a few companies i know that offer meetup sponsoring:
+
+* [GitHub](https://community.github.com/)
+* [JetBrains](https://www.jetbrains.com/support/community/#section=communities)
+* [t3n](http://t3n.de/) (German digital magazine)
+* [DigitalOcean](https://www.digitalocean.com/)
 
 ## Welcome and basic instructions
 
