@@ -1,12 +1,13 @@
 +++
-categories = ["meetups", "lesson learned"]
+categories = ["meetups", "lessons learned"]
 date = "2016-10-25T12:15:00+02:00"
 draft = false
 featureimage = "img/posts/lesson-learned-from-running-a-meetup/meetup-october-2013-tobias-schlitt.jpeg"
 titleshadow = true
 menu = ""
-tags = ["meetup", "usergroup", "experience", "lesson learned"]
-title = "Lesson learned from running a local meetup"
+tags = ["meetup", "usergroup", "experience", "lessons learned"]
+title = "Lessons learned from running a local meetup"
+url = "/blog/lesson-learned-from-running-a-local-meetup/"
 +++
 
 I organize the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) for about four years now.
