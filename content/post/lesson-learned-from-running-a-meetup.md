@@ -150,7 +150,7 @@ With the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesse
 After some time we moved to the conference rooms of [trivago](http://www.trivago.com/), because the organizers switched their work place.
 After ~1 year at trivago, the conference room was getting crowded.
 Luckily trivago offers a big kitchen with everything we need (beamer, audio, chairs, fridge, etc.) for ~200 people.
-Other companies in our area doing exactly this as well (like [sipgate](http://www.sipgate.de/)). 
+Other companies in our area doing exactly this as well (like [sipgate](http://www.sipgate.de/)).
 
 **Pro tip**: If you found a location, don't forget to mark the way to the meetup with paper signs. Not everyone knows, where the company is located or where they can find the correct room.
 
@@ -407,9 +407,9 @@ If you still want to read more about this topic have a look at [Running a Go Mee
 
 ## You run a meetup?
 
-If you run a meetup or visit meetups on a regular basis, feel free to share your lesson learned in the comments.
+If you run a meetup or visit meetups on a regular basis, feel free to share your lessons learned in the comments.
 I would  love to read them.
 
 ## Typo?
 
-Found a bug in this article? Feel free to create a pull request at [*Lesson learned from running a local meetup*](https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/post/lesson-learned-from-running-a-meetup.md) at github.
+Found a bug in this article? Feel free to create a pull request at [*Lessons learned from running a local meetup*](https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/post/lesson-learned-from-running-a-meetup.md) at github.
