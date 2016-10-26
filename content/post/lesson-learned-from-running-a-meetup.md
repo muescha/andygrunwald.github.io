@@ -391,7 +391,7 @@ The answer is simple: **Because of you**.
 * We love to work with motivated people.
 * We love to meet people who are eager to learn.
 * We love to learn about new topics.
-* Wo love to have fun conversations with the same kind of human as we are.
+* We love to have fun conversations with the same kind of human as we are.
 * We love to see people have fun on events we created.
 * And we love to see people grow when they are the first time on stage.
 
