@@ -9,7 +9,7 @@ tags = ["meetup", "usergroup", "experience", "lesson learned"]
 title = "Lesson learned from running a local meetup"
 +++
 
-I organize the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) for around about four years now.
+I organize the [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) for about four years now.
 A monthly meetup focused on web engineering and new trends in this area.
 I do this with a friend, 100% non-profit and motivated by our passion for open source, learning, meeting motivated people, and fun.
 
@@ -20,7 +20,7 @@ In this post I summarize all of that and provide tips, tricks and my lessons lea
 
 ## New meetup or existing one?
 
-If you consider to start a new meetup in your area about a topic you love, please do a little bit of research in advance.
+If you're considering starting a new meetup in your area about a topic you love, please do a little bit of research in advance.
 Often there is already a meetup in an acceptable distance to your location about the same topic.
 [Meetup.com](https://www.meetup.com/) is a perfect platform to search for meetups in your location.
 
@@ -85,14 +85,14 @@ In the first year of the PHP Usergroup DUS, 4 up to 8 people showed up for the m
 It was great.
 We were a small group and everyone knows everyone.
 After some time we were getting more known in the city.
-Now, after nearly 4 years, 45 up to 80 people show up every month.
+Now, after nearly 4 years, 45 to 80 people show up every month.
 
 Take your time.
 **To build a well visited meetup, you need time and stamina.**
 
 ## Don't do it alone
 
-To organize and run a meetup you need a time before and on the event day.
+To organize and run a meetup you need time before and on the event day.
 Before you need to reserve a location, organize a speaker, check and order drinks, food and equipment.
 On the event day you need to mark the way to the location, create a small welcome presentation and prepare the room.
 After the crowd is gone you need (mostly) clean the things up.
@@ -127,10 +127,10 @@ Be aware, not everyone is a fan of twitter or use it at all.
 This means they would miss your announcements.
 Email is still the best way of communication for the most people.
 
-The PHP Usergroup DUS started with [XING](https://www.xing.com/) as platform (a kind of german [LinkedIn](https://www.linkedin.com/)).
+The PHP Usergroup DUS started with [XING](https://www.xing.com/) as platform (a kind of German [LinkedIn](https://www.linkedin.com/)).
 It worked quite well for ~1 1/2 years.
-But we mostly attracted german people, because XING is a german network.
-After a switch to Meetup more and more international people joined our group.
+But we mostly attracted German people, because XING is a German network.
+After a switch to Meetup, more and more international people joined our group.
 Our userbase grew and we (the organizers) had less work to do, because XING is lacking a lot of useful features.
 
 ## Choose the right location
@@ -250,7 +250,7 @@ At [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/
 Sometimes we get contacts for speakers from other meetups or ask speakers from conferences near by if they are motivated to speak.
 If your meetup is well known, sometimes speaker will contact you, because they knew that it is possible to test bigger conference talks at local usergroups and improve them later.
 
-An alterntive to talks are workshops or hand on sessions.
+An alterntive to talks are workshops or hands-on sessions.
 You will be suprised how many people will join to learn something new for free.
 Start with a [Git](https://git-scm.com/) workshop and try it out.
 
@@ -258,7 +258,7 @@ Start with a [Git](https://git-scm.com/) workshop and try it out.
 
 ## Drinks and food
 
-Most of the meetups offer drinks and / or food.
+Most meetups offer drinks and / or food.
 This is great, because many attendees are joining you directly after their full time job without a stop by at home.
 They are hungry and thirsty.
 This is a good start for a good evening and chatting with a beer or a coke is much easier ;)
@@ -292,7 +292,7 @@ Here are a few companies I know that offer meetup sponsoring:
 
 ## Welcome and basic instructions
 
-You have your meetup planned and they day is there.
+You have your meetup planned and the day is there.
 People are joining your room, getting a drink and you are ready to start.
 **Start with a small 2 or 3 minute long welcome presentation.**
 This can be helpful for people who are the first time here.
@@ -311,7 +311,7 @@ Content that should be part of the welcome presentation:
 * Speaker and topic of today
 * If you offer a socialising after the talk or if the meetup ends directly
 
-After this you can hand over to the speaker, the talk will start and you will relax.
+After this you can hand it over to the speaker, the talk will start and you will relax.
 
 ## Socialising
 
@@ -360,9 +360,9 @@ ONe way is to setup a [Code of Conduct](https://en.wikipedia.org/wiki/Code_of_co
 Some meetups are backed by money and they are able to pay speaker.
 With this they are able to hire bigger speakers, pay them a fee, accommodation costs and attract more people.
 Some meetups charge money for the entrance.
-For german meetups this is not common.
+For German meetups this is not common.
 I often see this in US meetups.
-Both is completely fine.
+Both are completely fine.
 
 At [PHP Usergroup Duesseldorf](https://www.meetup.com/PHP-Usergroup-Duesseldorf/) we try to keep money out at as much as possible.
 We are a community based meetup that is organized out of people who love what they do.
@@ -406,9 +406,9 @@ If you still want to read more about this topic have a look at [Running a Go Mee
 
 ## You run a meetup?
 
-If you run a meetup or visit meetups on a regular bases, feel free to share your lesson learned in the comments.
+If you run a meetup or visit meetups on a regular basis, feel free to share your lesson learned in the comments.
 I would  love to read them.
 
 ## Typo?
 
-Found a bug in this article? Feel free to apply a pull request at [*Lesson learned from running a local meetup*](https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/post/lesson-learned-from-running-a-meetup.md) at github.
+Found a bug in this article? Feel free to create a pull request at [*Lesson learned from running a local meetup*](https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/post/lesson-learned-from-running-a-meetup.md) at github.
