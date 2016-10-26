@@ -405,6 +405,8 @@ You will see it is a great experience.
 
 If you still want to read more about this topic have a look at [Running a Go Meetup](https://github.com/corylanou/go-meetup) or [25 Best Practices for Meetup Organizers](http://mikeschinkel.com/blog/25-best-practices-for-meetup-organizers/).
 
+Next to this many people sharing their experience in [the related reddit thread for this blog post](https://www.reddit.com/r/programming/comments/59bcka/lesson_learned_from_running_a_local_meetup/).
+
 ## You run a meetup?
 
 If you run a meetup or visit meetups on a regular basis, feel free to share your lessons learned in the comments.
