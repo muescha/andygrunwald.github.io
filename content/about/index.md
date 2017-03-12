@@ -15,7 +15,7 @@ Deploy solutions and get them out of the door as well as empower people and shar
 In my current job i **lead the Software Operations team at [trivago](http://www.trivago.com/)** in [Düsseldorf, Germany](https://goo.gl/maps/Bq1SdUiESRn).
 This team is doing Site Reliability and Platform engineering for the hotelsearch, the core product of trivago.
 
-I **organize the [PHP Usergroup Düsseldorf](http://www.meetup.com/PHP-Usergroup-Duesseldorf/)** on a monthly basis.
+I **organize the [Web Engineering Meetup](https://www.meetup.com/Web-Engineering-Duesseldorf/)** on a monthly basis.
 This local meetup presents exciting talks about various topics from the web developer community.
 Feel free to join us next time.
 
