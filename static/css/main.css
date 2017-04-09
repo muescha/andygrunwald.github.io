@@ -25,3 +25,12 @@ ul li ul {
     padding-top: 2%;
     padding-bottom: 2%;
 }
+
+/* Icons in the menu */
+.site-header .site-nav li {
+	margin-right: 2em;
+}
+
+.site-header .site-nav li.icon {
+	margin-right: 0.4em;
+}
