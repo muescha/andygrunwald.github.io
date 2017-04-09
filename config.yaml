@@ -14,11 +14,12 @@ SectionPagesMenu: "nav"
 params:
   author: "Andy Grunwald"
   description: "Andy Grunwald - Software Engineer from Germany"
-  keywords: "backend,infrastructure,operations,devops,computer science,web development,web engineering"
+  keywords: "backend,infrastructure,operations,devops,web development,web engineering"
   copyright: "Andy Grunwald"
   headerText: "Hi, my name is **Andy Grunwald**, a Software Engineer from Germany with a focus on **Backend and Infrastructure**. I am leading the Software Operations Team at [trivago](http://www.trivago.com/)."
   gravatar: "andygrunwald@gmail.com"
   social:
+    rss: true
     email: "andygrunwald@gmail.com"
     github: "andygrunwald"
     linkedin: "https://www.linkedin.com/in/andy-grunwald-09aa265a"
