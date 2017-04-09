@@ -9,6 +9,8 @@ paginate: 10
 permalinks:
   post: /blog/:title/
 
+SectionPagesMenu: "nav"
+
 params:
   author: "Andy Grunwald"
   description: "Andy Grunwald - Software Engineer from Germany"
@@ -21,3 +23,14 @@ params:
     github: "andygrunwald"
     linkedin: "https://www.linkedin.com/in/andy-grunwald-09aa265a"
     twitter: "andygrunwald"
+
+menu:
+  nav:
+    - Name: "Public speaking"
+      Weight: -90
+      Identifier: "talk"
+      URL: "/talk/"
+    - Name: "Blog"
+      Weight: -100
+      Identifier: "post"
+      URL: "/"

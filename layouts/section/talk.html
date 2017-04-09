@@ -1,0 +1,47 @@
+{{ define "main" -}}
+    <div class="talks posts">
+
+        {{ range where .Data.Pages.ByDate.Reverse "Type" "talk" }}
+        <div class="post-teaser">
+            {{ if eq (.Date.Format "2006-01-2") (dateFormat "2006-01-2" .Params.eventenddate) }}
+            {{ .Date.Format "Monday, 2. Jan 2006" }}
+            {{- else -}}
+            {{ .Date.Format "Monday, 2. Jan 2006" }} - {{ dateFormat "Monday, 2. Jan 2006" .Params.eventenddate }}
+            {{- end }}
+
+            <h3>{{ .Title }}</h3> at
+            {{ if isset .Params "eventlink" | and (ne .Params.eventlink "") -}}
+            <a href="{{ .Params.eventlink }}" title="{{ .Params.eventtitle }}">{{ .Params.eventtitle }}</a>
+            {{- else -}}
+            {{ .Params.eventtitle }}
+            {{- end }}
+            in {{ .Params.city }}, {{ .Params.country }}
+        </div>
+        <!--
+        <div class="post-teaser">
+            <header>
+                <h1>
+                    <a class="post-link" href="{{ .Permalink }}">
+                        {{ .Title }}
+                    </a>
+                </h1>
+                {{ partial "post-meta" . }}
+            </header>
+
+            <div class="excerpt">
+                {{ if isset .Params "description" | and (ne .Params.description "") -}}
+                {{ .Description | markdownify }}
+                {{- else -}}
+                {{ .Summary }}
+                {{- end }}
+
+                <br>
+                <a class="button" href="{{ .Permalink }}">
+                    {{ .Site.Data.l10n.continueReading }}
+                </a>
+            </div>
+        </div>
+        -->
+        {{- end }}
+    </div>
+{{- end }}

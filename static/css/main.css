@@ -17,3 +17,9 @@ ul li ul {
 .title-shadow {
     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.9);
 }
+
+/* Talks */
+.talks .post-teaser {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
