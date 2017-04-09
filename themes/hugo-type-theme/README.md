@@ -17,29 +17,16 @@ You should see a folder called `hugo-type-theme` inside the `themes` directory t
 
 ## Setup
 
-In the next step navigate to the `exampleSite` folder at `themes/hugo-type-theme/exampleSite/`. Its structure should look similar to this:
+Next, navigate to the `exampleSite` folder at `themes/hugo-type-theme/exampleSite/`.  In order to get your site running, you need to copy `config.toml` and all the content of all relevant subfolders such as `data/l10n.toml` into the root folders.
 
-	exampleSite
-	├── config.toml
-	├── content
-	│   ├── about
-	│   │   └── index.md
-	│   └── post
-	│       ├── creating-a-new-theme.md
-	│       ├── go-is-for-lovers.md
-	│       ├── hugo-is-for-lovers.md
-	│       └── migrate-from-jekyll.md
-	├── data
-	│   └── l10n.toml
-	└── static
+To turn the `exampleSite` folder in a standalone demo site the `themesDir` property has been set to `../..`. This way you can preview this theme by running `hugo server` inside `exampleSite` folder.
 
-In order to get your site running, you need to copy `config.toml` and `data/l10n.toml` into the root folders.
+**Due to the customized `themesDir` path Hugo will fail to find themes if you copied the `config.toml` into the root directory of a regular Hugo website.** Make sure you comment out the `themesDir` property if you use the theme in production.
 
 
 ## The config file
 
 Now, let us take a look into the `config.toml`. Feel free to play around with the settings.
-
 
 ### Comments
 
@@ -47,8 +34,9 @@ The optional comment system is powered by Disqus. Enter your shortname to enable
 
     disqusShortname = ""
 
+With the `disableComments` frontmatter parameter you can disable the comment section for each page individually.
 
-### Visistor statistics
+### Google Analytics
 
 The same applies to the activation of Google Analytics. Enable it by entering the tracking code for your website.
 
