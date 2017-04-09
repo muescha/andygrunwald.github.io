@@ -11,18 +11,16 @@
 	{{- else -}}
 	<article>
 		<header>
-			{{ if and (isset .Params "titleshadow") }}
-			<h1 class="title title-shadow">{{ .Title }}</h1>
-			{{ else }}
 			<h1 class="title">{{ .Title }}</h1>
-			{{ end }}
 			{{ partial "post-meta" . }}
 		</header>
 	{{- end }}
 
-	<section class="post-content">
-		{{ .Content }}
-	</section>
-
-	{{ template "_internal/disqus.html" . }}
+		<section class="post-content">
+			{{ .Content }}
+		</section>
+	</article>
+	{{ if (not (eq .Site.DisqusShortname "")) | and (not .Params.disableComments) }}
+		{{ template "_internal/disqus.html" . }}
+	{{ end }}
 {{- end }}
