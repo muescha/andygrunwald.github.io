@@ -1,5 +1,5 @@
 +++
-title = "Codequalität messen"
+title = "Measurable code quality"
 
 date = "2014-06-30T09:00:00+02:00"
 eventenddate = "2014-07-02T20:00:00+02:00"
@@ -8,7 +8,7 @@ eventlink = "https://www.enterjs.de/archive/2014/abstracts.html#codequalitaet-me
 ratinglink = ""
 twittermoments = ""
 videolink = ""
-slides = ""
+slides = "https://speakerdeck.com/andygrunwald/measurable-code-quality"
 
 city = "Cologne"
 country = "Germany"
