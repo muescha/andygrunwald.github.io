@@ -30,6 +30,7 @@ menu:
     - Name: "Public speaking"
       Weight: -90
       Identifier: "public-speaking"
+      URL: "/public-speaking/"
     - Name: "Blog"
       Weight: -100
       Identifier: "post"
