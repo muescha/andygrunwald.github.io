@@ -29,8 +29,7 @@ menu:
   nav:
     - Name: "Public speaking"
       Weight: -90
-      Identifier: "talk"
-      URL: "/talk/"
+      Identifier: "public-speaking"
     - Name: "Blog"
       Weight: -100
       Identifier: "post"
