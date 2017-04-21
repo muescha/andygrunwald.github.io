@@ -7,6 +7,7 @@ eventtitle = "PHP-Usergroup Münster"
 eventlink = "https://www.meetup.com/phpugms/events/234945673/"
 ratinglink = ""
 twittermoments = ""
+videolink = ""
 
 city = "Münster"
 country = "Germany"

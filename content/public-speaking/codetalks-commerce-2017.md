@@ -7,6 +7,7 @@ eventtitle = "code.talks commerce special"
 eventlink = "https://commerce.codetalks.de/de/2017/programm/challenges-of-containers-in-production"
 ratinglink = ""
 twittermoments = ""
+videolink = ""
 
 city = "Berlin"
 country = "Germany"

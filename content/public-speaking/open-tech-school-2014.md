@@ -7,6 +7,7 @@ eventtitle = "OpenTechSchool Dortmund"
 eventlink = "https://www.meetup.com/opentechschool-dortmund/events/174124542/"
 ratinglink = ""
 twittermoments = ""
+videolink = ""
 
 city = "Dortmund"
 country = "Germany"

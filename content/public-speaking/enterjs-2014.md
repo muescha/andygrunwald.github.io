@@ -7,6 +7,7 @@ eventtitle = "enterJS"
 eventlink = "https://www.enterjs.de/archive/2014/abstracts.html#codequalitaet-messen"
 ratinglink = ""
 twittermoments = ""
+videolink = ""
 
 city = "Cologne"
 country = "Germany"

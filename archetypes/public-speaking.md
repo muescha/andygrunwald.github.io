@@ -7,6 +7,7 @@ eventtitle = ""
 eventlink = ""
 ratinglink = ""
 twittermoments = ""
+videolink = ""
 
 city = ""
 country = ""

@@ -7,6 +7,7 @@ eventtitle = "Web Engineering Meetup"
 eventlink = "https://www.meetup.com/Web-Engineering-Duesseldorf/events/233581197/"
 ratinglink = ""
 twittermoments = ""
+videolink = ""
 
 city = "Düsseldorf"
 country = "Germany"

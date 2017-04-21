@@ -7,6 +7,7 @@ eventtitle = "DEVit"
 eventlink = "http://devitconf.org/"
 ratinglink = ""
 twittermoments = ""
+videolink = ""
 
 city = "Thessaloniki"
 country = "Greece"

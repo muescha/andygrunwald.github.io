@@ -7,6 +7,7 @@ eventtitle = "Docker Meetup Düsseldorf"
 eventlink = "https://www.meetup.com/docker-dus/events/238676517/"
 ratinglink = ""
 twittermoments = ""
+videolink = ""
 
 city = "Düsseldorf"
 country = "Germany"
