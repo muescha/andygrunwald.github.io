@@ -9,6 +9,7 @@ ratinglink = ""
 twittermoments = ""
 videolink = ""
 slides = "https://speakerdeck.com/andygrunwald/measurable-code-quality"
+picture = ""
 
 city = "Cologne"
 country = "Germany"

@@ -9,6 +9,7 @@ ratinglink = ""
 twittermoments = ""
 videolink = ""
 slides = "https://speakerdeck.com/andygrunwald/introduction-into-opensource-and-opensource-licenses"
+picture = ""
 
 city = "Dortmund"
 country = "Germany"

@@ -9,6 +9,7 @@ ratinglink = ""
 twittermoments = ""
 videolink = ""
 slides = ""
+picture = ""
 
 city = "Berlin"
 country = "Germany"

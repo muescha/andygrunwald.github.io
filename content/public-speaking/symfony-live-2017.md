@@ -9,6 +9,7 @@ ratinglink = "https://joind.in/event/symfonylive-cologne-2017-2017/learn-redis-t
 twittermoments = "https://twitter.com/i/moments/850626654229671936"
 videolink = ""
 slides = "https://speakerdeck.com/andygrunwald/learn-redis-the-hard-way-dot-dot-dot-in-production-german-edition"
+picture = "symfony-live-2017-cologne.jpg"
 
 city = "Cologne"
 country = "Germany"

@@ -9,6 +9,7 @@ ratinglink = ""
 twittermoments = ""
 videolink = ""
 slides = ""
+picture = "docker-dus-meetup-2017.jpg"
 
 city = "Düsseldorf"
 country = "Germany"

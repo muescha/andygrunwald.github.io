@@ -9,6 +9,7 @@ ratinglink = ""
 twittermoments = ""
 videolink = ""
 slides = ""
+picture = "php-ug-muenster-2017-04-02.jpg"
 
 city = "Münster"
 country = "Germany"
