@@ -8,6 +8,7 @@ eventlink = "https://www.meetup.com/phpugms/events/234945673/"
 ratinglink = ""
 twittermoments = ""
 videolink = ""
+slides = ""
 
 city = "Münster"
 country = "Germany"

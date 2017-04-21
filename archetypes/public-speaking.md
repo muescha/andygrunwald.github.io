@@ -8,6 +8,7 @@ eventlink = ""
 ratinglink = ""
 twittermoments = ""
 videolink = ""
+slides = ""
 
 city = ""
 country = ""

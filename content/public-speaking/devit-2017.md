@@ -8,6 +8,7 @@ eventlink = "http://devitconf.org/"
 ratinglink = ""
 twittermoments = ""
 videolink = ""
+slides = ""
 
 city = "Thessaloniki"
 country = "Greece"

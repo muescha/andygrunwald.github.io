@@ -8,6 +8,7 @@ eventlink = "http://cologne2017.live.symfony.com/program#session-andygrunwald"
 ratinglink = "https://joind.in/event/symfonylive-cologne-2017-2017/learn-redis-the-hard-way--in-production"
 twittermoments = "https://twitter.com/i/moments/850626654229671936"
 videolink = ""
+slides = "https://speakerdeck.com/andygrunwald/learn-redis-the-hard-way-dot-dot-dot-in-production-german-edition"
 
 city = "Cologne"
 country = "Germany"

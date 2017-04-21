@@ -8,6 +8,7 @@ eventlink = "https://commerce.codetalks.de/de/2017/programm/challenges-of-contai
 ratinglink = ""
 twittermoments = ""
 videolink = ""
+slides = ""
 
 city = "Berlin"
 country = "Germany"

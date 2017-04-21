@@ -8,6 +8,7 @@ eventlink = "https://www.meetup.com/docker-dus/events/238676517/"
 ratinglink = ""
 twittermoments = ""
 videolink = ""
+slides = ""
 
 city = "Düsseldorf"
 country = "Germany"

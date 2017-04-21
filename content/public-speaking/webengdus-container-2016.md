@@ -8,6 +8,7 @@ eventlink = "https://www.meetup.com/Web-Engineering-Duesseldorf/events/233581197
 ratinglink = ""
 twittermoments = ""
 videolink = ""
+slides = ""
 
 city = "Düsseldorf"
 country = "Germany"

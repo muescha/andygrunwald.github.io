@@ -8,6 +8,7 @@ eventlink = "https://www.enterjs.de/archive/2014/abstracts.html#codequalitaet-me
 ratinglink = ""
 twittermoments = ""
 videolink = ""
+slides = ""
 
 city = "Cologne"
 country = "Germany"
