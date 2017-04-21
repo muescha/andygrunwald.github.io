@@ -6,6 +6,7 @@ eventenddate = ""
 eventtitle = ""
 eventlink = ""
 ratinglink = ""
+twittermoments = ""
 
 city = ""
 country = ""

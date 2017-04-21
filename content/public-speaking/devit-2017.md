@@ -6,6 +6,7 @@ eventenddate = "2017-05-22T20:00:00+02:00"
 eventtitle = "DEVit"
 eventlink = "http://devitconf.org/"
 ratinglink = ""
+twittermoments = ""
 
 city = "Thessaloniki"
 country = "Greece"

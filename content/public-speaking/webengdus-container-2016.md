@@ -6,6 +6,7 @@ eventenddate = "2016-09-22T23:00:00+02:00"
 eventtitle = "Web Engineering Meetup"
 eventlink = "https://www.meetup.com/Web-Engineering-Duesseldorf/events/233581197/"
 ratinglink = ""
+twittermoments = ""
 
 city = "Düsseldorf"
 country = "Germany"
