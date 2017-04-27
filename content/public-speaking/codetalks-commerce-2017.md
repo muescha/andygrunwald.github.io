@@ -8,7 +8,7 @@ eventlink = "https://commerce.codetalks.de/de/2017/programm/challenges-of-contai
 ratinglink = ""
 twittermoments = ""
 videolink = ""
-slides = ""
+slides = "https://speakerdeck.com/andygrunwald/challenges-of-containers-in-production"
 picture = ""
 
 city = "Berlin"
