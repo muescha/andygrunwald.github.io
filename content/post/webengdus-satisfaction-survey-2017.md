@@ -8,16 +8,15 @@ featureimage = ""
 menu = ""
 +++
 
-Since a couple of years i run the [Web Engineering Meetup Düsseldorf](https://www.meetup.com/Web-Engineering-Duesseldorf/) with help from a couple of friends (primarly [Dominik Siebel](https://twitter.com/milchjieper)).
+Since a couple of years I run the [Web Engineering Meetup Düsseldorf](https://www.meetup.com/Web-Engineering-Duesseldorf/) with the help of a couple of friends (primarly [Dominik Siebel](https://twitter.com/milchjieper)).
 In August 2017 we [created a satisfaction survey and sent it to the group](https://www.meetup.com/Web-Engineering-Duesseldorf/messages/boards/thread/51064884).
 Here are the results.
 
 <!--more-->
 
-The survey was anonym and **49 people responded in total**.
+The survey was anonymous and **49 people responded in total**.
 
-The first answer was inserted at August 23, 2017 at 13:30:19.
-The last at November 06, 2017 at 23:48:26.
+The first answer was submitted on August 23, 2017 at 13:30:19, the last on November 06, 2017 at 23:48:26.
 
 ---
 
@@ -50,7 +49,7 @@ The last at November 06, 2017 at 23:48:26.
 
 ### I would like to hear more about ...
 
-I categorize the answers a little bit:
+I tried to categorize the answers a little bit:
 
 #### General
 
@@ -95,7 +94,7 @@ I categorize the answers a little bit:
 
 ![WebEngDUS satisfaction survey 2017: I attend the Meetups because ...](/img/posts/webengdus-satisfaction-survey-2017/i-attend-the-meetups-because.png)
 
-Cutted answer possibilities are *of the people (networking)*, *I like to learn something*, *Gets me out of the house/office*, *My Boss (Andy) told me to*.
+The options that were cut-off above are: *of the people (networking)*, *I like to learn something*, *Gets me out of the house/office*, *My Boss (Andy) told me to*.
 
 ---
 
@@ -167,18 +166,16 @@ Thanks for all the answers.
 We organize the [WebEngDUS](https://www.meetup.com/Web-Engineering-Duesseldorf/) for you.
 And without your feedback we can't improve.
 
-The results show that we are doing quite okay these days.
-The location and the organisation seems to fit.
-Improvements like more parking space can't be influenced by us.
-But more information and accuracy on the talk timing can be done and will be done.
+The results show that we are doing quite okay right now. The location and the organisation seems to fit.
+Other things, like more parking spaces, we can not influence, but more information and accuracy on the talk duration and the start of the talk can be done and will be done.
 
 The choice of topics seems to be in line as well.
-What people want to hear about is spreaded across all areas.
+What people want to hear about is spread across all areas.
 Sometimes it is hard to get speakers for certain topics, but we will try!
-*If you can speak about a topic at the Meetup, contact me!*
-In between we continue with the wide are of different topics as we did in the last few years.
+*If you would like to talk about a topic at our Meetup, contact me!*
+In the meantime we continue with the wide are of different topics as we did in the last few years.
 
-The majority of visitors want to learn something and get connected to other people by attending the meetup.
+The majority of visitors wants to learn something and connect with other people by attending the meetup.
 **And this is exactly what we want to achieve**.
 **Share knowledge and build a community**.
 **This result makes us really proud**.
