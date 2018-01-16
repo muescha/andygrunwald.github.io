@@ -2,7 +2,8 @@ baseurl: "http://andygrunwald.com/"
 languageCode: "en-us"
 title: "Andy Grunwald"
 theme: "hugo-type-theme"
-disqusShortname: "andygrunwald"
+# TODO: Fix it
+# disqusShortname: "andygrunwald"
 googleAnalytics: "UA-64342623-1"
 # Posts per page
 paginate: 10
