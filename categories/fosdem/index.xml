@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fosdem on Andy Grunwald</title>
+    <link>http://andygrunwald.com/categories/fosdem/</link>
+    <description>Recent content in Fosdem on Andy Grunwald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Andy Grunwald</copyright>
+    <lastBuildDate>Fri, 21 Mar 2014 13:01:50 +0200</lastBuildDate>
+    
+	<atom:link href="http://andygrunwald.com/categories/fosdem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The story about the topic of my bachelor thesis</title>
+      <link>http://andygrunwald.com/blog/the-story-about-the-topic-of-my-bachelor-thesis/</link>
+      <pubDate>Fri, 21 Mar 2014 13:01:50 +0200</pubDate>
+      
+      <guid>http://andygrunwald.com/blog/the-story-about-the-topic-of-my-bachelor-thesis/</guid>
+      <description>&lt;p&gt;This post is about my bachelor thesis, a conference, cool people from spain, some academic paper, a lot of open source and how it can be if you let the flow runs :)&lt;/p&gt;
+
+&lt;p&gt;Everything starts in February 2013.
+At this time i studied business informatics next to my fulltime job at &lt;a href=&#34;http://www.wmdb.de/&#34;&gt;wmdb Systems GmbH&lt;/a&gt; as software developer (mainly as web developer for &lt;a href=&#34;http://typo3.org/&#34;&gt;TYPO3&lt;/a&gt; related projects).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
