@@ -408,7 +408,3 @@ Many people are sharing their experience in [the related reddit thread for this 
 
 If you run a meetup or visit meetups on a regular basis, feel free to share your lessons learned in the comments.
 I would love to read them.
-
-## Typo?
-
-Found a bug in this article? Feel free to create a pull request at [*Lessons learned from running a local meetup*](https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/post/lesson-learned-from-running-a-meetup.md) at github.

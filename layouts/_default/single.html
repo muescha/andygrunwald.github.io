@@ -18,6 +18,8 @@
 
 		<section class="post-content">
 			{{ .Content }}
+			<h2 id="typo">Typo?</h2>
+			<p>Found a bug or a typo in this article? Feel free to create a pull request at <a href="https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/{{ .File.Path }}"><em>{{ .Title }}</em></a> at GitHub.</p>
 		</section>
 	</article>
 	{{ if (not (eq .Site.DisqusShortname "")) | and (not .Params.disableComments) }}
